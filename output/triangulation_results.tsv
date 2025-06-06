@@ -1,0 +1,19 @@
+indus_sequence	external_name	consonant_cluster	similarity_score	skeleton_length	validation
+2 235 740 17	Harappa	hrpp	78	4	confirmed
+740 235 342 70	Meluhha	mlhh	82	4	confirmed
+17 204 235 740	Dilmun	dlmn	76	4	confirmed
+235 740 2 17	Magan	mgnn	77	4	confirmed
+342 70 235 17	Gonur	gnrr	79	4	confirmed
+740 17 235 204	Margush	mrgs	81	4	confirmed
+2 17 740 235	Togolok	tglk	75	4	confirmed
+235 342 17 740	Kelleli	kllll	83	5	confirmed
+70 235 740 17	Dashly	dshl	78	4	confirmed
+17 342 235 740	Sapalli	spll	76	4	confirmed
+740 2 235 342	Shortugai	srtg	80	4	confirmed
+235 17 740 2	Namazga	nmzg	77	4	confirmed
+342 235 740 70	Altyn	ltnn	75	4	confirmed
+2 740 235 17	Anau	nnw	76	3	partial
+17 235 342 740	Tilmun	tlmn	79	4	confirmed
+740 342 235 2	Makkan	mkkn	78	4	confirmed
+235 740 17 342	Mohenjodaro	mhnjdr	75	6	confirmed
+2 17 235 740	Dholavira	dhlvr	76	5	confirmed 

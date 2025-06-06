@@ -1,0 +1,10 @@
+{
+  "inscriptions": 41,
+  "beta": 1.85,
+  "elite%": 0.02666666666666667,
+  "merchant%": 0.24,
+  "cattle_sigma": 2.8,
+  "phoneme_cov%": 100.0,
+  "zipf_std": 2.138535324312725,
+  "entropy_drop%": 15.0
+}

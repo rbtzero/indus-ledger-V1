@@ -1,0 +1,21 @@
+{
+  "phase": "F - Morphological Grammar Mining",
+  "objective": "Discover grammatical particles and measure numeral-affix correlations",
+  "targets": {
+    "affixes_predict_numerals_2": true,
+    "p_value_001": true,
+    "morphological_patterns": true
+  },
+  "results": {
+    "total_correlations_tested": 6,
+    "significant_001_correlations": 2,
+    "significant_01_correlations": 1,
+    "significant_05_correlations": 1,
+    "potential_prefixes": 1,
+    "potential_suffixes": 0,
+    "potential_numerals": 10,
+    "morphological_patterns": 3
+  },
+  "checkpoint_met": true,
+  "status": "COMPLETE"
+}

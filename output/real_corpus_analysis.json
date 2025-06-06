@@ -1,0 +1,13 @@
+{
+  "total_inscriptions": 150,
+  "high_confidence_count": 139,
+  "high_confidence_rate": 92.66666666666666,
+  "unique_signs": 51,
+  "criteria_met": {
+    "sufficient_corpus_size": false,
+    "high_coverage_transliterations": false,
+    "signs_covered": false,
+    "readable_corpus": true
+  },
+  "overall_assessment": "\ud83d\udd36 SUBSTANTIAL PROGRESS - Significant partial decipherment"
+}

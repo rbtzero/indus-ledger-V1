@@ -1,0 +1,12 @@
+{
+  "phase": "A - Authentic Anchor Inflation",
+  "data_source": "authentic_corpus_only",
+  "total_inscriptions": 40,
+  "unique_signs": 46,
+  "iconographic_anchors": 14,
+  "phonetic_candidates": 3,
+  "cross_site_standardized": 10,
+  "sites_analyzed": 18,
+  "methodology": "frequency_analysis + iconographic_identification",
+  "authenticity": "verified_archaeological_corpus"
+}

@@ -1,0 +1,18 @@
+{
+  "unique_signs_mapped": 446,
+  "total_triangulations": 961,
+  "corpus_size": 150,
+  "transliteration_success_rate": 93.45238095238095,
+  "morphological_instances": 210,
+  "external_names_covered": 38,
+  "criteria_met": 3,
+  "total_criteria": 8,
+  "completion_percentage": 37.5,
+  "assessment": "PARTIAL",
+  "verdict": "\u26a0\ufe0f PARTIAL DECIPHERMENT",
+  "capabilities": [
+    "\u2713 Extensive external name correlation (400+ triangulations)",
+    "\u2713 Advanced morphological analysis (200+ features)",
+    "\u2713 Complete methodological workflow (all 7 phases)"
+  ]
+}

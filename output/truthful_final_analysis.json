@@ -1,0 +1,21 @@
+{
+  "phoneme_mappings": {
+    "previous": 446,
+    "additional": 0,
+    "total": 446,
+    "target": 500,
+    "achieved": false
+  },
+  "confirmed_correlations": {
+    "previous": 21,
+    "additional": 48,
+    "total": 69,
+    "target": 100,
+    "achieved": false
+  },
+  "overall_status": "INCOMPLETE",
+  "missing_targets": [
+    "phoneme_mappings: need 54 more",
+    "confirmed_correlations: need 31 more"
+  ]
+}

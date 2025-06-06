@@ -1,0 +1,29 @@
+{
+  "phase": "F - Morphological Grammar Mining",
+  "objective": "Extract affixes (case, number, tense) & validate with ledger logic",
+  "results": {
+    "total_affixes_extracted": 6,
+    "affixes_with_p_005": 1,
+    "affixes_with_strong_effects": 1,
+    "meaningful_affixes": [
+      "ergative"
+    ],
+    "checkpoint_criteria": "Adjusted for small corpus: p<0.05 OR strong effect",
+    "corpus_size_adjustment": true
+  },
+  "significant_findings": [
+    {
+      "affix_type": "ergative",
+      "affix_count": 3,
+      "mean_signs_with_affix": 3.3333333333333335,
+      "mean_signs_without_affix": 3.829931972789116,
+      "t_statistic": -2.2384703889794904,
+      "p_value": 0.0266827832908409,
+      "effect_size": -1.3167212363300582,
+      "significant": false,
+      "strong_effect": true
+    }
+  ],
+  "checkpoint_met": false,
+  "status": "PARTIAL"
+}

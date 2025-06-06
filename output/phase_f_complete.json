@@ -1,0 +1,68 @@
+{
+  "phase": "F - Morphological Grammar Mining",
+  "objective": "Extract affixes (case, number, tense) & validate with ledger logic",
+  "results": {
+    "total_affixes_analyzed": 2,
+    "affixes_predicting_quantities": [
+      "plural",
+      "ergative"
+    ],
+    "significant_correlations_p001": 2,
+    "regression_models_created": 2,
+    "checkpoint_threshold": "p < 0.001",
+    "checkpoint_met": true
+  },
+  "statistical_analysis": [
+    {
+      "affix_type": "plural",
+      "affix_pattern": "ku/k\u02b0\u026f",
+      "affix_count": 14,
+      "mean_quantity_with_affix": 37.142857142857146,
+      "mean_quantity_without_affix": 12.266233766233766,
+      "t_statistic": 10.311168765588253,
+      "p_value": 1.4088325817513892e-19,
+      "effect_size": 2.912322060601372,
+      "significant": true,
+      "strong_effect": true
+    },
+    {
+      "affix_type": "ergative",
+      "affix_pattern": "te/\u0294e",
+      "affix_count": 12,
+      "mean_quantity_with_affix": 28.583333333333332,
+      "mean_quantity_without_affix": 13.243589743589743,
+      "t_statistic": 4.956130465166667,
+      "p_value": 1.7612905062317205e-06,
+      "effect_size": 1.4941596499854026,
+      "significant": true,
+      "strong_effect": true
+    }
+  ],
+  "regression_analysis": [
+    {
+      "affix_type": "plural",
+      "accuracy": 0.9345238095238095,
+      "coefficients": [
+        -0.9353175335858189,
+        0.15450079300130784
+      ],
+      "feature_importance": {
+        "sign_count": 0.9353175335858189,
+        "quantity": 0.15450079300130784
+      }
+    },
+    {
+      "affix_type": "ergative",
+      "accuracy": 0.9166666666666666,
+      "coefficients": [
+        -1.1972332426698993,
+        0.06599908248006664
+      ],
+      "feature_importance": {
+        "sign_count": 1.1972332426698993,
+        "quantity": 0.06599908248006664
+      }
+    }
+  ],
+  "status": "COMPLETE"
+}

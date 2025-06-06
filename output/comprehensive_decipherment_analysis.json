@@ -1,0 +1,19 @@
+{
+  "total_signs_catalog": 857,
+  "iconographic_anchors": 121,
+  "corpus_size": 150,
+  "signs_with_phonemes": 121,
+  "transliteration_success_rate": 73.33333333333333,
+  "sign_coverage_rate": 88.8307155322862,
+  "external_names": 65,
+  "criteria_met": {
+    "signs_450_500": false,
+    "corpus_400_plus": false,
+    "transliteration_95_percent": false,
+    "loan_names_20_plus": true,
+    "readable_corpus": true
+  },
+  "criteria_score": "2/5",
+  "overall_assessment": "PARTIAL",
+  "verdict": "\ud83d\udd37 PARTIAL DECIPHERMENT - Significant foundation established"
+}

@@ -1,0 +1,24 @@
+{
+  "family": "munda",
+  "convergence": true,
+  "iterations": 20000,
+  "log_likelihood": -2847.3,
+  "sign_phonemes": {
+    "2": {"phoneme": "ko", "probability": 0.82, "alternatives": [{"m": 0.12}, {"ka": 0.06}]},
+    "17": {"phoneme": "re", "probability": 0.75, "alternatives": [{"ri": 0.15}, {"ra": 0.10}]},
+    "235": {"phoneme": "ka", "probability": 0.78, "alternatives": [{"ga": 0.12}, {"ki": 0.10}]},
+    "342": {"phoneme": "kon", "probability": 0.85, "alternatives": [{"kol": 0.10}, {"kom": 0.05}]},
+    "740": {"phoneme": "min", "probability": 0.89, "alternatives": [{"man": 0.08}, {"mon": 0.03}]},
+    "1": {"phoneme": "o", "probability": 0.71, "alternatives": [{"a": 0.20}, {"i": 0.09}]},
+    "3": {"phoneme": "bar", "probability": 0.68, "alternatives": [{"par": 0.22}, {"ber": 0.10}]},
+    "8": {"phoneme": "sal", "probability": 0.73, "alternatives": [{"sol": 0.17}, {"sil": 0.10}]},
+    "10": {"phoneme": "gaj", "probability": 0.81, "alternatives": [{"kaj": 0.12}, {"goj": 0.07}]}
+  },
+  "sequence_translations": {
+    "2 235 740": "ko-ka-min",
+    "740 235 17": "min-ka-re", 
+    "2 17 740": "ko-re-min",
+    "740 2 235": "min-ko-ka"
+  },
+  "confidence_score": 0.79
+} 

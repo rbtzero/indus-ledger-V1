@@ -1,0 +1,32 @@
+{
+  "phase": "G - Cross-validation Round",
+  "objective": "Stress-test uniqueness of phoneme set",
+  "tests": {
+    "perturbation_test": {
+      "description": "Perturb weight map \u00b11, rerun lattice",
+      "stability_percentage": 100.0,
+      "threshold": 90.0,
+      "passed": true
+    },
+    "hmm_comparison_test": {
+      "description": "Swap in Dravidian HMM; composite score gap",
+      "score_gap_sigma": 6.003999999999996,
+      "threshold": 2.0,
+      "passed": true
+    },
+    "consistency_test": {
+      "description": "Consistency across sign categories",
+      "overall_consistency": 0.8548322764743184,
+      "variance": 0.002498904938882452,
+      "passed": true
+    }
+  },
+  "results": {
+    "both_critical_tests_passed": true,
+    "perturbation_robustness": "100.0%",
+    "hmm_preference_strength": "6.0\u03c3",
+    "lattice_solution_robust": true
+  },
+  "checkpoint_met": true,
+  "status": "COMPLETE"
+}

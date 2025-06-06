@@ -1,0 +1,62 @@
+{
+  "phase": "D - Comprehensive Stroke-radical Decomposition",
+  "total_radical_links": 4,
+  "target_radical_links": 80,
+  "correlation_score": 0.0,
+  "target_correlation": 0.6,
+  "radical_requirement_met": false,
+  "correlation_requirement_met": false,
+  "phase_d_success": false,
+  "high_confidence_links": 0,
+  "very_high_confidence": 0,
+  "avg_consistency": 0.5208333333333334,
+  "unique_stroke_patterns": 3,
+  "signs_analyzed": 921,
+  "data_sources": "Comprehensive signs.csv (921) + Phase A phonemes (850) + Acrophonic (265)",
+  "validated_links": [
+    {
+      "radical_cluster": "simple_misc_animal",
+      "radical_pattern": "simple_misc",
+      "semantic_group": "animal",
+      "mapped_phoneme": "pe",
+      "cluster_size": 4,
+      "phoneme_consistency": 0.5,
+      "signs_with_phonemes": 2,
+      "total_signs_in_cluster": 4,
+      "confidence": 0.25
+    },
+    {
+      "radical_cluster": "simple_misc_abstract",
+      "radical_pattern": "simple_misc",
+      "semantic_group": "abstract",
+      "mapped_phoneme": "dh",
+      "cluster_size": 831,
+      "phoneme_consistency": 0.08333333333333333,
+      "signs_with_phonemes": 156,
+      "total_signs_in_cluster": 831,
+      "confidence": 0.015643802647412754
+    },
+    {
+      "radical_cluster": "complex_misc_abstract",
+      "radical_pattern": "complex_misc",
+      "semantic_group": "abstract",
+      "mapped_phoneme": "ko",
+      "cluster_size": 6,
+      "phoneme_consistency": 0.5,
+      "signs_with_phonemes": 6,
+      "total_signs_in_cluster": 6,
+      "confidence": 0.5
+    },
+    {
+      "radical_cluster": "medium_misc_abstract",
+      "radical_pattern": "medium_misc",
+      "semantic_group": "abstract",
+      "mapped_phoneme": "bo",
+      "cluster_size": 4,
+      "phoneme_consistency": 1.0,
+      "signs_with_phonemes": 1,
+      "total_signs_in_cluster": 4,
+      "confidence": 0.25
+    }
+  ]
+}

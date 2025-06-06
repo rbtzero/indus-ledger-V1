@@ -1,0 +1,19 @@
+{
+  "paradox": "sophisticated_trade_vs_ritual_script",
+  "findings": {
+    "repetition_patterns": 0,
+    "authority_patterns": 0,
+    "economic_content": {
+      "resources": 1268,
+      "places": 439,
+      "ownership": 1934,
+      "actions": 1140,
+      "quantity": 1211,
+      "value": 1060
+    },
+    "ritual_trade_integration": 23.288216560509554,
+    "evidence_mismatch": 6
+  },
+  "resolution": "ritual_integrated_trade_control",
+  "implications": "theocratic_trade_federation"
+}

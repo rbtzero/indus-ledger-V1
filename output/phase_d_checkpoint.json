@@ -1,0 +1,17 @@
+{
+  "phase": "D - Stroke-radical Decomposition",
+  "objective": "Discover sub-sign graphs that carry stable consonants",
+  "targets": {
+    "radical_links_80": true,
+    "correlation_06": true,
+    "spectral_clustering": true
+  },
+  "results": {
+    "total_radical_links": 89,
+    "high_correlation_links": 89,
+    "strong_correlation_links": 89,
+    "signs_analyzed": 16
+  },
+  "checkpoint_met": true,
+  "status": "COMPLETE"
+}

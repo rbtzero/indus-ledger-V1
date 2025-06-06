@@ -1,0 +1,56 @@
+{
+  "validation_summary": {
+    "tests_passed": 4,
+    "total_tests": 4,
+    "overall_pass": true
+  },
+  "detailed_results": {
+    "bleu_score": 0.7617886178861788,
+    "bleu_pass": true,
+    "chi2_results": {
+      "da": {
+        "significant": false
+      },
+      "sa": {
+        "chi2": 1907.7757363347666,
+        "p_value": 0.0,
+        "significant": true
+      },
+      "pa": {
+        "chi2": 27.987627485697345,
+        "p_value": 1.2209359187945944e-07,
+        "significant": true
+      },
+      "ma": {
+        "chi2": 20.370611399654805,
+        "p_value": 6.380214343133275e-06,
+        "significant": true
+      },
+      "na": {
+        "chi2": 8.16513913794099,
+        "p_value": 0.004270319782276172,
+        "significant": true
+      },
+      "ra": {
+        "chi2": 4.965904206391412,
+        "p_value": 0.025851795499249132,
+        "significant": false
+      },
+      "ka": {
+        "chi2": 19.510334283160287,
+        "p_value": 1.0005690372504039e-05,
+        "significant": true
+      },
+      "ja": {
+        "chi2": 8.953744861023647,
+        "p_value": 0.002769013680397934,
+        "significant": true
+      }
+    },
+    "chi2_pass": true,
+    "root_coverage": 0.9994772608468374,
+    "coverage_pass": true,
+    "las_score": 0.96,
+    "las_pass": true
+  }
+}

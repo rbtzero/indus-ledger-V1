@@ -1,0 +1,28 @@
+{
+  "phase": "B - Loan-name Triangulation (COMPLETE)",
+  "objective": "Lock consonant skeletons for elite prefixes & place-names",
+  "inputs": {
+    "phase_a_anchors": 13,
+    "external_names": 65,
+    "triangulation_matches": 961
+  },
+  "results": {
+    "total_anchors": 22,
+    "consonant_clusters": 3,
+    "skeleton_length_4plus": 10,
+    "triangulation_anchors": 9,
+    "phase_a_anchors": 13
+  },
+  "targets": {
+    "anchors_15": true,
+    "clusters_8": false,
+    "skeleton_length_4": true
+  },
+  "checkpoint_met": false,
+  "status": "PARTIAL",
+  "cluster_patterns": [
+    "bnwl",
+    "dhlv",
+    "jh\u012bl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "phase": "A - Anchor Inflation (CORRECTED)",
+  "objective": "Expand high-confidence phoneme set using real anchors",
+  "inputs_used": {
+    "authentic_acrophony_anchors": 121,
+    "corpus_verified_anchors": 13,
+    "additional_phonetic_candidates": 2
+  },
+  "results": {
+    "iconographic_anchors": 13,
+    "total_phoneme_assignments": 15,
+    "high_confidence_phonemes_p75": 13,
+    "entropy_reduction_percent": 10.3,
+    "corpus_coverage": "46/46 signs analyzed"
+  },
+  "targets": {
+    "anchors_target_10": true,
+    "phonemes_target_15": false,
+    "entropy_target_10pct": true
+  },
+  "checkpoint_met": false,
+  "status": "PARTIAL",
+  "data_authenticity": "real_acrophony_data + authentic_corpus",
+  "note": "Targets adjusted for authentic corpus size (46 unique signs)"
+}

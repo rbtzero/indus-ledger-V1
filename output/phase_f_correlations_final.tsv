@@ -1,0 +1,3 @@
+affix_type	affix_pattern	affix_count	mean_quantity_with_affix	mean_quantity_without_affix	t_statistic	p_value	effect_size	significant	strong_effect
+plural	ku/kʰɯ	14	37.142857142857146	12.266233766233766	10.311168765588253	1.4088325817513892e-19	2.912322060601372	True	True
+ergative	te/ʔe	12	28.583333333333332	13.243589743589743	4.956130465166667	1.7612905062317205e-06	1.4941596499854026	True	True

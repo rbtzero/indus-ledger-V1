@@ -1,0 +1,30 @@
+{
+  "total_anchors": 23,
+  "unique_clusters": 21,
+  "requirement_1_passed": true,
+  "requirement_2_passed": true,
+  "phase_b_success": true,
+  "consonant_clusters": [
+    "bpbr",
+    "tprdp",
+    "klrl",
+    "mlph",
+    "dhmn",
+    "tplp",
+    "lkkn",
+    "krpp",
+    "kllm",
+    "mlmn",
+    "bhrt",
+    "mkmn",
+    "pkkn",
+    "bhmn",
+    "bhpn",
+    "knll",
+    "mchh",
+    "bprn",
+    "bhbn",
+    "rmkkn",
+    "bnbr"
+  ]
+}
