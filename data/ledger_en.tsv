@@ -1,0 +1,151 @@
+id	sign_string	transliteration_ipa	confidence
+H001	2 235 740	ko.ka.min	high
+H002	17 342 2	re.kon.ko	high
+H003	235 740 2	ka.min.ko	high
+H004	2 17 740	ko.re.min	high
+H005	740 235 17	min.ka.re	high
+H006	342 2 235	kon.ko.ka	high
+H007	2 740 235 17	ko.min.ka.re	high
+H008	235 17 740 2	ka.re.min.ko	high
+H009	17 235 2 740	re.ka.ko.min	high
+H010	740 2 235	min.ko.ka	high
+H011	10 25 740	gaj.hati.min	high
+H012	8 50 60	sal.cid.boa	high
+H013	70 80 90	hor.cak.kal	high
+H014	100 101 102	kon.bel.tur	high
+H015	1 3 5	o.bar.mon	high
+H016	15 16 17	uni.ker.re	high
+H017	20 21 22	nal.sok.dur	high
+H018	30 31 32	kar.mul.ten	high
+H019	40 41 42	mas.jin.dek	high
+H020	50 51 52	cid.bor.lak	high
+H021	60 61 62	boa.lek.mul	high
+H022	70 71 72	hor.bek.sol	high
+H023	80 81 82	cak.bel.tor	high
+H024	90 91 92	kal.ber.sol	high
+H025	100 110 120	kon.sol.som	high
+H026	2 10 740	ko.gaj.min	high
+H027	8 25 342	sal.hati.kon	high
+H028	17 70 235	re.hor.ka	high
+H029	50 80 90	cid.cak.kal	high
+H030	1 15 740	o.uni.min	high
+H031	235 342 740 2	ka.kon.min.ko	high
+H032	10 25 8 740	gaj.hati.sal.min	high
+H033	17 70 50 235	re.hor.cid.ka	high
+H034	80 90 100 2	cak.kal.kon.ko	high
+H035	1 3 5 740	o.bar.mon.min	high
+H036	15 30 45 60	uni.kar.tek.boa	high
+H037	20 35 50 235	nal.kul.cid.ka	high
+H038	40 55 70 342	mas.hel.hor.kon	high
+H039	80 95 110 740	cak.gom.sol.min	high
+H040	2 17 32 740	ko.re.ten.min	high
+H041	8 23 38 235	sal.lam.ger.ka	high
+H042	10 25 40 342	gaj.hati.mas.kon	high
+H043	50 65 80 740	cid.nel.cak.min	high
+H044	70 85 100 2	hor.ser.kon.ko	high
+H045	1 16 31 235	o.ker.mul.ka	high
+H046	15 30 45 342	uni.kar.tek.kon	high
+H047	20 35 50 740	nal.kul.cid.min	high
+H048	40 55 70 2	mas.hel.hor.ko	high
+H049	60 75 90 235	boa.nek.kal.ka	high
+H050	80 95 110 342	cak.gom.sol.kon	high
+H051	2 17 740 235	ko.re.min.ka	high
+H052	8 23 342 740	sal.lam.kon.min	high
+H053	10 25 2 235	gaj.hati.ko.ka	high
+H054	50 65 740 342	cid.nel.min.kon	high
+H055	70 85 2 740	hor.ser.ko.min	high
+H056	1 16 235 342	o.ker.ka.kon	high
+H057	15 30 740 2	uni.kar.min.ko	high
+H058	20 35 342 235	nal.kul.kon.ka	high
+H059	40 55 2 740	mas.hel.ko.min	high
+H060	60 75 235 342	boa.nek.ka.kon	high
+H061	80 95 740 2	cak.gom.min.ko	high
+H062	100 1 235 740	kon.o.ka.min	high
+H063	2 8 342 235	ko.sal.kon.ka	high
+H064	10 50 740 2	gaj.cid.min.ko	high
+H065	70 80 235 342	hor.cak.ka.kon	high
+H066	1 15 740 235	o.uni.min.ka	high
+H067	20 40 2 342	nal.mas.ko.kon	high
+H068	60 70 235 740	boa.hor.ka.min	high
+H069	80 100 342 2	cak.kon.kon.ko	high
+H070	1 2 235 740	o.ko.ka.min	high
+H071	8 17 342 235	sal.re.kon.ka	high
+H072	10 25 740 2	gaj.hati.min.ko	high
+H073	50 70 235 342	cid.hor.ka.kon	high
+H074	80 90 740 235	cak.kal.min.ka	high
+H075	100 1 2 342	kon.o.ko.kon	high
+H076	15 35 740 235	uni.kul.min.ka	high
+H077	20 40 2 740	nal.mas.ko.min	high
+H078	60 80 235 342	boa.cak.ka.kon	high
+H079	70 100 740 2	hor.kon.min.ko	high
+H080	1 8 235 740	o.sal.ka.min	high
+H081	17 25 342 2	re.hati.kon.ko	high
+H082	50 60 740 235	cid.boa.min.ka	high
+H083	70 90 2 342	hor.kal.ko.kon	high
+H084	80 100 235 740	cak.kon.ka.min	high
+H085	1 10 342 235	o.gaj.kon.ka	high
+H086	2 50 740 2	ko.cid.min.ko	high
+H087	8 70 235 342	sal.hor.ka.kon	high
+H088	17 80 740 235	re.cak.min.ka	high
+H089	25 100 2 342	hati.kon.ko.kon	high
+H090	1 17 235 740	o.re.ka.min	high
+H091	2 8 342 235	ko.sal.kon.ka	high
+H092	10 50 740 2	gaj.cid.min.ko	high
+H093	25 70 235 342	hati.hor.ka.kon	high
+H094	80 90 740 235	cak.kal.min.ka	high
+H095	100 1 2 740	kon.o.ko.min	high
+H096	15 25 342 235	uni.hati.kon.ka	high
+H097	20 50 740 2	nal.cid.min.ko	high
+H098	60 70 235 342	boa.hor.ka.kon	high
+H099	80 100 740 235	cak.kon.min.ka	high
+H100	1 2 8 740	o.ko.sal.min	high
+H101	17 25 50 235	re.hati.cid.ka	medium
+H102	70 80 100 342	hor.cak.kon.kon	high
+H103	1 10 15 740	o.gaj.uni.min	high
+H104	2 20 25 235	ko.nal.hati.ka	high
+H105	50 60 70 342	cid.boa.hor.kon	high
+H106	80 90 100 740	cak.kal.kon.min	high
+H107	1 8 17 235	o.sal.re.ka	medium
+H108	2 10 50 740	ko.gaj.cid.min	high
+H109	25 70 80 342	hati.hor.cak.kon	high
+H110	90 100 1 235	kal.kon.o.ka	high
+H111	2 8 25 740	ko.sal.hati.min	high
+H112	17 50 70 235	re.cid.hor.ka	medium
+H113	80 90 100 342	cak.kal.kon.kon	high
+H114	1 10 20 740	o.gaj.nal.min	high
+H115	2 25 60 235	ko.hati.boa.ka	high
+H116	50 70 90 342	cid.hor.kal.kon	high
+H117	80 100 1 740	cak.kon.o.min	high
+H118	8 17 25 235	sal.re.hati.ka	medium
+H119	2 50 80 740	ko.cid.cak.min	high
+H120	70 90 100 342	hor.kal.kon.kon	high
+H121	1 2 10 235	o.ko.gaj.ka	high
+H122	17 25 70 740	re.hati.hor.min	medium
+H123	50 80 90 342	cid.cak.kal.kon	high
+H124	100 1 8 235	kon.o.sal.ka	high
+H125	2 17 60 740	ko.re.boa.min	high
+H126	25 50 80 342	hati.cid.cak.kon	high
+H127	70 90 100 235	hor.kal.kon.ka	high
+H128	1 8 25 740	o.sal.hati.min	medium
+H129	2 17 50 235	ko.re.cid.ka	high
+H130	60 70 100 342	boa.hor.kon.kon	high
+H131	80 90 1 740	cak.kal.o.min	high
+H132	2 8 50 235	ko.sal.cid.ka	medium
+H133	17 25 80 740	re.hati.cak.min	high
+H134	70 90 100 342	hor.kal.kon.kon	high
+H135	1 10 60 235	o.gaj.boa.ka	high
+H136	2 25 80 740	ko.hati.cak.min	high
+H137	50 70 100 342	cid.hor.kon.kon	high
+H138	90 1 8 235	kal.o.sal.ka	high
+H139	2 17 70 740	ko.re.hor.min	medium
+H140	25 60 80 342	hati.boa.cak.kon	high
+H141	90 100 1 235	kal.kon.o.ka	high
+H142	2 8 60 740	ko.sal.boa.min	high
+H143	17 50 90 235	re.cid.kal.ka	medium
+H144	70 80 100 342	hor.cak.kon.kon	high
+H145	1 25 60 740	o.hati.boa.min	high
+H146	2 17 80 235	ko.re.cak.ka	high
+H147	50 90 100 342	cid.kal.kon.kon	high
+H148	70 1 8 235	hor.o.sal.ka	medium
+H149	2 25 90 740	ko.hati.kal.min	high
+H150	60 80 100 342	boa.cak.kon.kon	high 

@@ -1,0 +1,129 @@
+check_*.npz
+ckpt_*.h5
+freeze_out/
+*.npy
+*.npz
+*.h5
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+indus_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data files (use Git LFS)
+data/large/
+data/raw/*.svg
+data/raw/*.png
+data/raw/*.jpg
+data/raw/*.xlsx
+data/raw/*.zip
+
+# Temporary files
+*.tmp
+*.temp
+_tmp_*/
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Cache directories
+_cache/
+.cache/
+
+# Backup files
+*.bak
+*.backup
+
+# Model files (if large)
+*.pkl
+*.pickle
+*.joblib
+
+# Compiled extensions
+*.pyd
+*.dll
+
+# Local configuration
+config.local.yml
+.env.local
+
+# Documentation builds
+docs/_build/
+site/
+
+# Data processing intermediate files
+data/derived/*.tmp
+output/*.tmp
+
+.snake*
+.hypothesis/
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+data/raw_snapshots/
+gammaC_data/
+# Large data files that should not be in git
+*.root
+*_data.root
+cms_dimuon_sample.root

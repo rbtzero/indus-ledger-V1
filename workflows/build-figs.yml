@@ -1,0 +1,79 @@
+name: Build notebook figures
++permissions:
++  contents: write
++  pull-requests: write
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "notebooks/**"
+      - "design/**"
+      - "scripts/**"
+      - ".github/workflows/build-figs.yml"
+  pull_request:
+    paths:
+      - "notebooks/**"
+      - "design/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo (LFS on)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Jupyter & libs
+        run: |
+          pip install --quiet jupyter "jinja2<3.1" "nbconvert==7.16.3" nbclient numpy scipy matplotlib pandas plotly cairosvg
+
+      # ---- NEW: make /scripts (and root) importable ----
+      - name: Add repo root to PYTHONPATH
+        run: |
+          echo "PYTHONPATH=$GITHUB_WORKSPACE" >> "$GITHUB_ENV"
+
+      - name: Install Inkscape
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y inkscape
+
+      - name: Install repo in editable mode
+        run: |
+          pip install -e .
+
+      - name: Generate tables & patch notebooks
+        run: |
+          python tools/bootstrap_notebooks.py
+          python tools/write_figs.py
+          python tools/generate_tables.py
+
+      - name: Render notebook figures (direct)
+        run: |
+          python tools/run_notebook_figures.py
+
+      - name: Export vector diagrams
+        run: |
+          inkscape design/axiom_flow.drawio       --export-type=png --export-filename=paper/figs/axiom_flow.png       --export-dpi=300
+          inkscape design/intro_timeline.drawio   --export-type=png --export-filename=paper/figs/intro_timeline.png   --export-dpi=300
+          inkscape design/gauge_stack.svg         --export-type=png --export-filename=paper/figs/gauge_stack.png       --export-dpi=300
+          inkscape design/number_tower.svg        --export-type=png --export-filename=paper/figs/number_tower.png      --export-dpi=300
+          inkscape design/tests_overview.svg      --export-type=png --export-filename=paper/figs/tests_overview.png    --export-dpi=300
+          # ensure binary diff so git-auto-commit sees change
+          for f in paper/figs/axiom_flow.png paper/figs/intro_timeline.png paper/figs/gauge_stack.png paper/figs/number_tower.png paper/figs/tests_overview.png; do echo "#$(date +%s%N)" >> "$f"; done
+
+      - name: Touch unique flag to force git diff
+        run: echo $(date +%s%N) > paper/figs/_ci_timestamp.txt
+
+      - name: Commit regenerated figures
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "CI: regenerate notebook figures & diagrams"

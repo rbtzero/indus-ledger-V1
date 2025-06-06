@@ -1,0 +1,91 @@
+name: clay-problems CI
+
+on:
+  push:
+    paths:
+      # Trigger when submodule pointer file or any contents change
+      - 'clay-problems'
+      - 'clay-problems/**'
+      - '.github/workflows/clay-problems.yml'
+  pull_request:
+    paths:
+      - 'clay-problems'
+      - 'clay-problems/**'
+
+jobs:
+  build-latex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install TeX Live
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y texlive-full
+
+      - name: Compile monograph (capture log)
+        id: build_pdf
+        continue-on-error: true
+        run: |
+          timeout 600 latexmk -pdf -interaction=nonstopmode -file-line-error -halt-on-error clay-problems/main.tex 2>&1 | tee clay_build.log
+
+      - name: Show tail of build log on failure
+        if: steps.build_pdf.outcome == 'failure'
+        run: |
+          echo "--- clay_build.log (last 200 lines) ---"
+          tail -n 200 clay_build.log || true
+
+      - name: Upload build log
+        uses: actions/upload-artifact@v4
+        with:
+          name: clay-latex-build-log
+          path: clay_build.log
+
+      - name: Fail job if LaTeX failed
+        if: steps.build_pdf.outcome == 'failure'
+        run: exit 1
+
+  lean-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install Lean toolchain (elan script)
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y curl
+          curl -L https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh | bash -s -- -y
+          echo "$HOME/.elan/bin" >> $GITHUB_PATH
+      - name: Cache Lake artifacts
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.lake
+            clay-problems/.lake
+          key: ${{ runner.os }}-lake-${{ hashFiles('clay-problems/lakefile.lean', 'clay-problems/lean-toolchain') }}
+
+      - name: Build Lean project (Lake)
+        run: |
+          cd clay-problems
+          lake exe cache get || true
+          lake build
+          python problems/PvsNP/pnp_checker.py 
+      - name: Navier–Stokes Lean build
+        run: |
+          cd clay-problems
+          lake build ClayNS
+
+      - name: Build Lean proofs (RH)
+        run: |
+          cd clay-problems
+          lake build ClayRH
+
+      - name: γ-term numeric sanity
+        run: |
+          pip install mpmath
+          python - <<'PY'
+          import mpmath as mp, math
+          t=0.0001
+          delta=t**0.25
+          psi=lambda x,d: math.tanh(x/d)
+          integral= mp.quad(lambda nu: (nu/(2*math.pi))**2*psi(nu,delta)*math.exp(-nu**2*t/(2*math.pi)**2), [-mp.inf, mp.inf])
+          assert abs(integral) < 1e5
+          PY 

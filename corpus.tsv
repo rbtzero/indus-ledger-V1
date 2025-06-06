@@ -1,0 +1,41 @@
+id	signs	site	layer
+1	740 17 2	Harappa	V
+2	410 17 235	Harappa	V
+3	405 17 840	Surkotada	IV
+4	740 235 17	Kalibangan	II
+5	235 33 2	Harappa	III
+6	740 142 603	Mohenjo-daro	VI
+7	740 603 240 60 692	Dholavira	VII
+8	520 220 240 798 60 692	Lothal	VIII
+9	740 55 806 17	Banawali	IX
+10	2 17 235	Rakhigarhi	I
+11	90 740 240 220	Alamgirpur	II
+12	235 740 519	Kunal	III
+13	400 154 440 220	Mitathal	IV
+14	520 220 415 17	Bhagwanpura	V
+15	72 170 740 840 13	Judeirjo-daro	VI
+16	405 844 32 840 2 861	Siswal	VII
+17	226 3 2 297 350 125 413	Bhirrana	VIII
+18	390 717 61 2 368 634	Farmana	IX
+19	90 740 220 2 368 550 821	Girawad	X
+20	236 2 308 90 17	Hulas	I
+21	740 1 17	Harappa	V
+22	235 17 740	Mohenjo-daro	VI
+23	2 235 17 740	Dholavira	VII
+24	17 235 2	Lothal	VIII
+25	740 235 2 17	Harappa	V
+26	405 17 235	Kalibangan	II
+27	235 740 17 2	Harappa	III
+28	17 740 235	Mohenjo-daro	VI
+29	2 17 740 235	Dholavira	VII
+30	235 2 17 740	Lothal	VIII
+31	3 2 740	Harappa	V
+32	235 17 3	Mohenjo-daro	VI
+33	740 2 235 17	Dholavira	VII
+34	17 3 235	Lothal	VIII
+35	2 740 17	Kalibangan	II
+36	235 3 17 740	Harappa	III
+37	17 2 235	Mohenjo-daro	VI
+38	740 3 17 235	Dholavira	VII
+39	235 17 2 740	Lothal	VIII
+40	3 235 17	Harappa	V 

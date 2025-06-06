@@ -1,0 +1,2513 @@
+sequence_id	original_indus	english_translation
+seq_0	na cha jha	The sacred water place
+seq_1	na pa na	The father of water
+seq_2	cha jha na	The sacred place water
+seq_3	na na jha	Water water place
+seq_4	jha cha na	Place sacred water
+seq_5	pa na cha	Father of sacred water
+seq_6	na jha cha na	Water Place Sacred Water
+seq_7	cha na jha na	Sacred Water Place Water
+seq_8	na cha na jha	Water Sacred Water Place
+seq_9	jha na cha	Place water sacred
+seq_10	gh nan jha	House nan place
+seq_11	dh pa nan	Hold father nan
+seq_12	nan nan nan	Nan nan nan
+seq_13	nan la pa	Nan small father
+seq_14	ga ku ku	Great grain grain
+seq_15	ja ra na	Come king water
+seq_16	mu sh pr	Mouth shine before
+seq_17	dh ch ja	Hold cut come
+seq_18	da pa ch	Do father cut
+seq_19	pa si ba	Father sit good
+seq_20	nan la pa	Nan small father
+seq_21	nan sa ka	Nan stand person
+seq_22	nan ta na	Nan three water
+seq_23	nan ma ra	Nan mother king
+seq_24	nan pa ka	Nan father person
+seq_25	na gh jha	Water house place
+seq_26	dh nan pa	Hold nan father
+seq_27	na nan cha	Water nan sacred
+seq_28	pa nan nan	Father water water
+seq_29	ga ja jha	Great come place
+seq_30	cha pa jha na	Sacred Father Place Water
+seq_31	gh nan dh jha	House Nan Hold Place
+seq_32	na nan pa cha	Water Nan Father Sacred
+seq_33	nan nan nan na	Nan Nan Nan Water
+seq_34	ga ku ku jha	Great Grain Grain Place
+seq_35	ja dh an nan	Come Hold At Nan
+seq_36	mu re pa cha	Mouth Flow Father Sacred
+seq_37	da sa nan pa	Do Stand Nan Father
+seq_38	nan sa pa jha	Nan Stand Father Place
+seq_39	na na ja jha	Water Water Come Place
+seq_40	dh sa ha cha	Hold Stand Land Sacred
+seq_41	gh nan da pa	House Nan Do Father
+seq_42	pa ta nan jha	Father Three Nan Place
+seq_43	nan la nan na	Nan Small Nan Water
+seq_44	ga ra ch cha	Great King Cut Sacred
+seq_45	ja dh an pa	Come Hold At Father
+seq_46	mu re pa jha	Mouth Flow Father Place
+seq_47	da sa nan na	Do Stand Nan Water
+seq_48	nan ma nan cha	Nan Mother Nan Sacred
+seq_49	nan sa pa pa	Nan Stand Father Father
+seq_50	na na jha cha	Water Water Place Sacred
+seq_51	dh sa pa jha	Hold Stand Father Place
+seq_52	gh nan na cha	House Nan Water Sacred
+seq_53	pa ta jha pa	Father Three Place Father
+seq_54	nan la na jha	Nan Small Water Place
+seq_55	ga ra cha pa	Great King Sacred Father
+seq_56	ja dh jha na	Come Hold Place Water
+seq_57	mu re pa cha	Mouth Flow Father Sacred
+seq_58	da sa na jha	Do Stand Water Place
+seq_59	nan ma cha pa	Nan Mother Sacred Father
+seq_60	nan sa jha na	Nan Stand Place Water
+seq_61	nan ga cha jha	Nan Great Sacred Place
+seq_62	na dh pa cha	Water Hold Father Sacred
+seq_63	gh pa jha na	House Father Place Water
+seq_64	nan nan cha pa	Nan Nan Sacred Father
+seq_65	ga ja jha cha	Great Come Place Sacred
+seq_66	mu da na pa	Mouth Do Water Father
+seq_67	nan nan cha jha	Nan Nan Sacred Place
+seq_68	nan nan pa na	Nan Nan Father Water
+seq_69	ga na cha jha	Great Water Sacred Place
+seq_70	dh na pa cha	Hold Water Father Sacred
+seq_71	gh nan jha na	House Nan Place Water
+seq_72	pa nan cha pa	Father Nan Sacred Father
+seq_73	nan nan jha cha	Nan Nan Place Sacred
+seq_74	nan ga na pa	Nan Great Water Father
+seq_75	ja re jha cha	Come Flow Place Sacred
+seq_76	mu da na jha	Mouth Do Water Place
+seq_77	nan nan cha pa	Nan Nan Sacred Father
+seq_78	nan nan jha na	Nan Nan Place Water
+seq_79	ga dh cha jha	Great Hold Sacred Place
+seq_80	na nan pa na	Water Nan Father Water
+seq_81	pa nan jha cha	Father Nan Place Sacred
+seq_82	nan nan na pa	Nan Nan Water Father
+seq_83	nan nan cha jha	Nan Nan Sacred Place
+seq_84	ga gh pa cha	Great House Father Sacred
+seq_85	na pa jha na	Water Father Place Water
+seq_86	dh nan cha pa	Hold Nan Sacred Father
+seq_87	na nan jha cha	Water Nan Place Sacred
+seq_88	nan nan na pa	Nan Nan Water Father
+seq_89	ga na cha jha	Great Water Sacred Place
+seq_90	na dh pa cha	Water Hold Father Sacred
+seq_91	gh pa jha na	House Father Place Water
+seq_92	nan nan cha pa	Nan Nan Sacred Father
+seq_93	nan nan jha cha	Nan Nan Place Sacred
+seq_94	nan ga na jha	Nan Great Water Place
+seq_95	ja nan pa cha	Come Nan Father Sacred
+seq_96	mu pa jha na	Mouth Father Place Water
+seq_97	nan nan cha pa	Nan Nan Sacred Father
+seq_98	nan nan jha cha	Nan Nan Place Sacred
+seq_99	ga na dh jha	Great Water Hold Place
+seq_100	na nan pa cha	Water Nan Father Sacred
+seq_101	nan nan nan pa	Nan Nan Nan Father
+seq_102	ga gh ja jha	Great House Come Place
+seq_103	na mu nan cha	Water Mouth Nan Sacred
+seq_104	pa nan nan pa	Father Nan Nan Father
+seq_105	nan nan nan jha	Nan Nan Nan Place
+seq_106	ga dh na cha	Great Hold Water Sacred
+seq_107	na gh pa jha	Water House Father Place
+seq_108	nan nan nan pa	Nan Nan Nan Father
+seq_109	nan nan ga cha	Nan Nan Great Sacred
+seq_110	na dh nan jha	Water Hold Nan Place
+seq_111	na pa nan cha	Water Father Nan Sacred
+seq_112	nan nan nan pa	Nan Nan Nan Father
+seq_113	ga gh mu jha	Great House Mouth Place
+seq_114	na nan nan cha	Water Nan Nan Sacred
+seq_115	pa nan nan pa	Father Nan Nan Father
+seq_116	nan nan ga jha	Nan Nan Great Place
+seq_117	dh na nan cha	Hold Water Nan Sacred
+seq_118	na pa nan jha	Water Father Nan Place
+seq_119	nan nan nan pa	Nan Nan Nan Father
+seq_120	ga na gh cha	Great Water House Sacred
+seq_121	na nan nan jha	Water Nan Nan Place
+seq_122	pa nan nan pa	Father Nan Nan Father
+seq_123	nan ga dh cha	Nan Great Hold Sacred
+seq_124	na na nan jha	Water Water Nan Place
+seq_125	nan pa nan pa	Nan Father Nan Father
+seq_126	nan nan nan cha	Nan Nan Nan Sacred
+seq_127	ga dh nan jha	Great Hold Nan Place
+seq_128	na na pa cha	Water Water Father Sacred
+seq_129	nan nan nan pa	Nan Nan Nan Father
+seq_130	nan nan ga jha	Nan Nan Great Place
+seq_131	na dh pa cha	Water Hold Father Sacred
+seq_132	na nan nan jha	Water Nan Nan Place
+seq_133	nan nan nan pa	Nan Nan Nan Father
+seq_134	ga gh nan cha	Great House Nan Sacred
+seq_135	na nan nan jha	Water Nan Nan Place
+seq_136	pa nan nan pa	Father Nan Nan Father
+seq_137	nan ga dh cha	Nan Great Hold Sacred
+seq_138	na na nan jha	Water Water Nan Place
+seq_139	nan nan nan pa	Nan Nan Nan Father
+seq_140	nan nan ga cha	Nan Nan Great Sacred
+seq_141	na dh nan jha	Water Hold Nan Place
+seq_142	na pa nan cha	Water Father Nan Sacred
+seq_143	nan nan nan pa	Nan Nan Nan Father
+seq_144	ga nan nan jha	Great Nan Nan Place
+seq_145	na na nan cha	Water Water Nan Sacred
+seq_146	pa nan nan pa	Father Nan Nan Father
+seq_147	nan ga dh cha	Nan Great Hold Sacred
+seq_148	na nan nan jha	Water Nan Nan Place
+seq_149	nan nan nan pa	Nan Nan Nan Father
+seq_150	na ma sa ta ra ba	Water Mother Stand Three King Good
+seq_151	la ha ba	Small land good
+seq_152	ta ma pa pa	Three Mother Father Father
+seq_153	nan gh na ga ka sa	Nan House Water Great Person Stand
+seq_154	pa la ha ra	Father Small Land King
+seq_155	ch ra ga gh	Cut King Great House
+seq_156	ba nan ta	Good nan three
+seq_157	bh ha gh	Be land house
+seq_158	gh ra ku ku	House King Grain Grain
+seq_159	ha ga pa	Land great father
+seq_160	nan pa pa	Nan father father
+seq_161	ta sa ra la ta	Three Stand King Small Three
+seq_162	ta ma ta ha	Three Mother Three Land
+seq_163	ba ra ra na dh	Good King King Water Hold
+seq_164	ku ta pa mu	Grain Three Father Mouth
+seq_165	sa pa gh	The stand father house
+seq_166	sa sa ta	The stand stand three
+seq_167	si ka la ch	Sit Person Small Cut
+seq_168	ma an la	Mother at small
+seq_169	ba sa ka	Good stand person
+seq_170	ch pa bh	Cut father be
+seq_171	la na si	Small water sit
+seq_172	pa sa pa	The father of stand father
+seq_173	la ku bh ra sa	Small Grain Be King Stand
+seq_174	na ka ja pa	Water Person Come Father
+seq_175	pa ku gh	Father grain house
+seq_176	ma na ma	Mother water mother
+seq_177	sa un na	The stand up water
+seq_178	mu bh ka	Mouth be person
+seq_179	ja nan la pa ha	Come Nan Small Father Land
+seq_180	la ma an sa	Small Mother At Stand
+seq_181	ba sa nan	Good stand nan
+seq_182	pa bh ch ta	Father Be Cut Three
+seq_183	sa ma la	The stand mother small
+seq_184	ka ta pa ra	Person Three Father King
+seq_185	pa ta an pa na	Father Three At Father Water
+seq_186	ta ra bh	Three king be
+seq_187	pa ba nan dh ja na	Father Good Nan Hold Come Water
+seq_188	ta ta na	Three three water
+seq_189	pa gh ku	Father house grain
+seq_190	ra ja ra	King come king
+seq_191	ta ka sa	Three person stand
+seq_192	ta ra la sa ra pa ku la	Three King Small Stand King Father Grain Small
+seq_193	la ka ha nan	Small Person Land Nan
+seq_194	ha sa pa	Land stand father
+seq_195	pa ma sa	Father mother stand
+seq_196	pr na la sa bh	Before Water Small Stand Be
+seq_197	ch nan la	Cut nan small
+seq_198	na nan ta ta	Water Nan Three Three
+seq_199	ch la mu	Cut small mouth
+seq_200	ch sh ha	Cut shine land
+seq_201	ka na pa	Person water father
+seq_202	ha na ba	Land water good
+seq_203	ba la ra	Good small king
+seq_204	sa sa ta ta na kh	Stand Stand Three Three Water Sky
+seq_205	ra pa pu	King father pure
+seq_206	ma ta dh	Mother three hold
+seq_207	pa ta ka sa pa pa	Father Three Person Stand Father Father
+seq_208	ta ka ta	Three person three
+seq_209	na ma na ra ja	Water Mother Water King Come
+seq_210	ba sa sa pa la	Good Stand Stand Father Small
+seq_211	pa pa ku ra	Father Father Grain King
+seq_212	ta ga ra ta	Three Great King Three
+seq_213	la da pa na	Small Do Father Water
+seq_214	pa la pa	Father small father
+seq_215	dh la bh na	Hold Small Be Water
+seq_216	ta sa na sh	Three Stand Water Shine
+seq_217	na ma ra na ra	Water Mother King Water King
+seq_218	sa ch pa mu	Stand Cut Father Mouth
+seq_219	na ha ku	Water land grain
+seq_220	ra pa pa sa na la	King Father Father Stand Water Small
+seq_221	ch ch ra sh	Cut Cut King Shine
+seq_222	na nan ta	Water nan three
+seq_223	pa bh an	Father be at
+seq_224	g ra nan	Cow king nan
+seq_225	na sa ku	The water of stand grain
+seq_226	ku na ja un	Grain Water Come Up
+seq_227	ja ka ka pa	Come Person Person Father
+seq_228	kh na la	Sky water small
+seq_229	ka dh g	Person hold cow
+seq_230	la ja la ka	Small Come Small Person
+seq_231	ta na sa pa	Three Water Stand Father
+seq_232	g na na	Cow water water
+seq_233	la ta ch	Small three cut
+seq_234	ta ma da	Three mother do
+seq_235	la nan ma pa	Small Nan Mother Father
+seq_236	gh ba sa ka pa	House Good Stand Person Father
+seq_237	kh ku dh ra	Sky Grain Hold King
+seq_238	ba pa ba ra	Good Father Good King
+seq_239	ch pa pa ch	Cut Father Father Cut
+seq_240	pa ma gh	Father mother house
+seq_241	dh sa sa	Hold stand stand
+seq_242	ba dh ma	Good hold mother
+seq_243	na bh la ta	Water Be Small Three
+seq_244	pa la ja ka ka	Father Small Come Person Person
+seq_245	ga na ma	Great water mother
+seq_246	na pa ma ga pa ja	Water Father Mother Great Father Come
+seq_247	re ra ra ka	Flow King King Person
+seq_248	ch pa ga	Cut father great
+seq_249	ku na sa ha si	Grain Water Stand Land Sit
+seq_250	ku ka la sa ka ja	Grain Person Small Stand Person Come
+seq_251	ha ka sa pa ta nan pa	Land Person Stand Father Three Nan Father
+seq_252	na la g ra	Water Small Cow King
+seq_253	nan dh ma	Nan hold mother
+seq_254	na ba la ku	Water Good Small Grain
+seq_255	la na si	Small water sit
+seq_256	ka ka na	Person person water
+seq_257	na na la ta	Water Water Small Three
+seq_258	ta na ch ma	Three Water Cut Mother
+seq_259	dh ta pa ga ku	Hold Three Father Great Grain
+seq_260	ta ku pa	Three grain father
+seq_261	ta pa pa	Three father father
+seq_262	na sa ch la	Water Stand Cut Small
+seq_263	na g pa si ta	Water Cow Father Sit Three
+seq_264	pa pa pu	Father father pure
+seq_265	ta na pa ta	Three Water Father Three
+seq_266	ra la sa pa na	King Small Stand Father Water
+seq_267	ku ta ra	Grain three king
+seq_268	ja ba ba	Come good good
+seq_269	g dh pa	Cow hold father
+seq_270	ta na ga	Three water great
+seq_271	ra ra ku	King king grain
+seq_272	na pa pa	Water father father
+seq_273	mu nan ha	Mouth nan land
+seq_274	ku pa pa si	Grain Father Father Sit
+seq_275	la ku ta pa dh pa	Small Grain Three Father Hold Father
+seq_276	la na ra ba ra na	Small Water King Good King Water
+seq_277	un ra la	Up king small
+seq_278	ka ka ku	Person person grain
+seq_279	sa ka an	The stand person at
+seq_280	na pa pa un ka la ra na	Water Father Father Up Person Small King Water
+seq_281	la ra bh la	Small King Be Small
+seq_282	la gh an bh ta dh dh	Small House At Be Three Hold Hold
+seq_283	na na na	Water water water
+seq_284	ta ku ba	Three grain good
+seq_285	ta ra na pa	Three King Water Father
+seq_286	ga ka si dh	Great Person Sit Hold
+seq_287	sa sa pa pa	Stand Stand Father Father
+seq_288	na ta na	Water three water
+seq_289	la bh la	Small be small
+seq_290	na ku la ch	Water Grain Small Cut
+seq_291	la ta la	Small three small
+seq_292	la pa pa	Small father father
+seq_293	pa pr ch	Father before cut
+seq_294	bh dh ra	Be hold king
+seq_295	ta ka pa	Three person father
+seq_296	ka sa ta	Person stand three
+seq_297	la na ra	Small water king
+seq_298	ra ku ta kh kh	King Grain Three Sky Sky
+seq_299	sa ka dh pa	Stand Person Hold Father
+seq_300	nan ta ra ma	Nan Three King Mother
+seq_301	ta gh na	Three house water
+seq_302	na ba ka	Water good person
+seq_303	ma ra ku	Mother king grain
+seq_304	ka ja ka na ra	Person Come Person Water King
+seq_305	la ta la	Small three small
+seq_306	ma ka ba ku pr	Mother Person Good Grain Before
+seq_307	ra ra la	King king small
+seq_308	bh ra pa la ka	Be King Father Small Person
+seq_309	na pa da na bh ta	Water Father Do Water Be Three
+seq_310	la la ku ra	Small Small Grain King
+seq_311	ta la ta	Three small three
+seq_312	dh kh mu	Hold sky mouth
+seq_313	pa ra ba pa ka ta un	Father King Good Father Person Three Up
+seq_314	ba pa ja	Good father come
+seq_315	mu g gh	Mouth cow house
+seq_316	ta ka sa	Three person stand
+seq_317	na na pa pa pa dh ma ka	Water Water Father Father Father Hold Mother Person
+seq_318	dh ka bh ta	Hold Person Be Three
+seq_319	la pa ku ka	Small Father Grain Person
+seq_320	ka ra ku	Person king grain
+seq_321	la gh ra nan ka ka na ra	Small House King Nan Person Person Water King
+seq_322	ra ka mu	King person mouth
+seq_323	ha ta pa	Land three father
+seq_324	pa la nan sa pa	Father Small Nan Stand Father
+seq_325	la ka ta	Small person three
+seq_326	nan nan pa	Nan nan father
+seq_327	ta ba ta na	Three Good Three Water
+seq_328	na ku ra ku	Water Grain King Grain
+seq_329	ka ba ch la	Person Good Cut Small
+seq_330	pa ja ku la sa dh pa	Father Come Grain Small Stand Hold Father
+seq_331	la ka gh sa	Small Person House Stand
+seq_332	ta ka ra	Three person king
+seq_333	ra pa na	King father water
+seq_334	da bh ta	Do be three
+seq_335	ba ra pa na	Good King Father Water
+seq_336	bh na na nan	Be Water Water Nan
+seq_337	pa ch ta ku	Father Cut Three Grain
+seq_338	an ma ku	At mother grain
+seq_339	pa ma pa re	Father Mother Father Flow
+seq_340	ba ra sh	Good king shine
+seq_341	ha sa sa pa ch	Land Stand Stand Father Cut
+seq_342	ma ja dh	Mother come hold
+seq_343	bh sh sa nan ma na la	Be Shine Stand Nan Mother Water Small
+seq_344	ku ka pa	Grain person father
+seq_345	pa pa ma	Father father mother
+seq_346	gh ma ma la	House Mother Mother Small
+seq_347	pa ta sa ba	Father Three Stand Good
+seq_348	ka sa na	Person stand water
+seq_349	dh na ta na	Hold Water Three Water
+seq_350	si la ta	Sit small three
+seq_351	kh la g ta	Sky Small Cow Three
+seq_352	pa la la	Father small small
+seq_353	na ra pa	Water king father
+seq_354	ka mu la	Person mouth small
+seq_355	pa na dh	Father water hold
+seq_356	ch ka na	Cut person water
+seq_357	ra sa la	The king of stand small
+seq_358	ku ka dh	Grain person hold
+seq_359	ma pa ma ka	Mother Father Mother Person
+seq_360	ch ka ku	Cut person grain
+seq_361	ha ra na ka	Land King Water Person
+seq_362	ma ku ta	Mother grain three
+seq_363	la sa ta	Small stand three
+seq_364	nan la pa ra ka	Nan Small Father King Person
+seq_365	ma ba ka	Mother good person
+seq_366	ta ka ka pa	Three Person Person Father
+seq_367	sa ra ma ch	Stand King Mother Cut
+seq_368	bh da ku ch ta	Be Do Grain Cut Three
+seq_369	ku nan ka	Grain nan person
+seq_370	ha ta la	Land three small
+seq_371	ha la sa ba ga ra	Land Small Stand Good Great King
+seq_372	un nan na	Up nan water
+seq_373	ma ma ma ka	Mother Mother Mother Person
+seq_374	dh nan ra ku pa	Hold Nan King Grain Father
+seq_375	ma ch ja pa ta	Mother Cut Come Father Three
+seq_376	ch la na pa sa	Cut Small Water Father Stand
+seq_377	dh pa pa pa sa	Hold Father Father Father Stand
+seq_378	pa ja la	Father come small
+seq_379	ku sa pa	Grain stand father
+seq_380	bh pa na ma na sa	Be Father Water Mother Water Stand
+seq_381	sa ka ku	The stand person grain
+seq_382	pa sa ka	The father of stand person
+seq_383	ma sa ra	The mother of stand king
+seq_384	ka la sh	Person small shine
+seq_385	ma pa pa ga ra kh na ku	Mother Father Father Great King Sky Water Grain
+seq_386	sa sa kh dh ka	Stand Stand Sky Hold Person
+seq_387	ta dh pa	Three hold father
+seq_388	ka mu ra	Person mouth king
+seq_389	ka ka sa	Person person stand
+seq_390	la ch ra pa ta ta	Small Cut King Father Three Three
+seq_391	ga na pa	Great water father
+seq_392	ha bh sa pa	Land Be Stand Father
+seq_393	nan pa ku si	Nan Father Grain Sit
+seq_394	pa ta g	Father three cow
+seq_395	na ha ra	Water land king
+seq_396	la sa pa	Small stand father
+seq_397	ka na la mu	Person Water Small Mouth
+seq_398	sa bh na	The stand be water
+seq_399	ba pa ta	Good father three
+seq_400	bh ra na ta na	Be King Water Three Water
+seq_401	ta la pa sa na	Three Small Father Stand Water
+seq_402	sa ra da sa	Stand King Do Stand
+seq_403	sa na pa	The stand water father
+seq_404	bh ka pa na ka ra	Be Person Father Water Person King
+seq_405	ka gh ta ka	Person House Three Person
+seq_406	sa ku bh ka	Stand Grain Be Person
+seq_407	nan ku la gh	Nan Grain Small House
+seq_408	ra la ta	King small three
+seq_409	ra nan pa	King nan father
+seq_410	ta ra la	Three king small
+seq_411	ha ma pa ka	Land Mother Father Person
+seq_412	pa ja ra ta	Father Come King Three
+seq_413	mu pa ra	Mouth father king
+seq_414	na ta la ch	Water Three Small Cut
+seq_415	na sa la ha	Water Stand Small Land
+seq_416	ch ra ka ch ra	Cut King Person Cut King
+seq_417	nan la ra ka	Nan Small King Person
+seq_418	la ch ma la	Small Cut Mother Small
+seq_419	ta ka gh	Three person house
+seq_420	pa sa la ma	Father Stand Small Mother
+seq_421	mu ja la ta kh la	Mouth Come Small Three Sky Small
+seq_422	ch bh nan sa na	Cut Be Nan Stand Water
+seq_423	ra pa na	King father water
+seq_424	gh ra ka	House king person
+seq_425	nan ta ta ra na	Nan Three Three King Water
+seq_426	ma ka ga	Mother person great
+seq_427	pa pa ma ha	Father Father Mother Land
+seq_428	pa nan ja	Father nan come
+seq_429	ta dh na na	Three Hold Water Water
+seq_430	ku ta ba ku ha pa	Grain Three Good Grain Land Father
+seq_431	nan sa pa	Nan stand father
+seq_432	kh la ta	Sky small three
+seq_433	ka ta ja	Person three come
+seq_434	sa pa un	The stand father up
+seq_435	ch pa ta kh ra si	Cut Father Three Sky King Sit
+seq_436	na pa ta ka	Water Father Three Person
+seq_437	sa na la	The stand water small
+seq_438	ta sa dh	Three stand hold
+seq_439	ta ra ba gh ta	Three King Good House Three
+seq_440	ta sa dh	Three stand hold
+seq_441	re pa an sa	Flow Father At Stand
+seq_442	dh nan ka na pa pa	Hold Nan Person Water Father Father
+seq_443	ta bh mu na	Three Be Mouth Water
+seq_444	ra pa na ka ba si	King Father Water Person Good Sit
+seq_445	ta ch ka ma	Three Cut Person Mother
+seq_446	dh pa ku ra ra ra	Hold Father Grain King King King
+seq_447	ma na ha la	Mother Water Land Small
+seq_448	da ma sa ta ra la	Do Mother Stand Three King Small
+seq_449	nan ch ra dh	Nan Cut King Hold
+seq_450	re pa na ka ku	Flow Father Water Person Grain
+seq_451	pa bh pa	Father be father
+seq_452	la sa na	Small stand water
+seq_453	ka gh an	Person house at
+seq_454	ma nan pa	Mother nan father
+seq_455	pa la ra ra na	Father Small King King Water
+seq_456	gh ku bh	House grain be
+seq_457	sa pa ku	The stand father grain
+seq_458	pa pa ku ku	Father Father Grain Grain
+seq_459	ja ha pa ja	Come Land Father Come
+seq_460	ha pa ma ka ra	Land Father Mother Person King
+seq_461	sa ka ha ku	Stand Person Land Grain
+seq_462	ta ra ra dh	Three King King Hold
+seq_463	la bh la ra	Small Be Small King
+seq_464	mu mu ba	Mouth mouth good
+seq_465	ra ga si	King great sit
+seq_466	dh la la	Hold small small
+seq_467	sa ra ba ka	Stand King Good Person
+seq_468	ja ku na	Come grain water
+seq_469	sa ta dh	The stand three hold
+seq_470	pa mu ha ra	Father Mouth Land King
+seq_471	ta mu ku	Three mouth grain
+seq_472	la ra sa na	Small King Stand Water
+seq_473	pa pa ma	Father father mother
+seq_474	ka ta la	Person three small
+seq_475	ga la la sa ka	Great Small Small Stand Person
+seq_476	la dh la la	Small Hold Small Small
+seq_477	nan sa ja an ba ba na na	Nan Stand Come At Good Good Water Water
+seq_478	ma g na g	Mother Cow Water Cow
+seq_479	g pa sa la na sa	Cow Father Stand Small Water Stand
+seq_480	sa ta ha sa	Stand Three Land Stand
+seq_481	na pa gh bh	Water Father House Be
+seq_482	pa pr un pa	Father Before Up Father
+seq_483	pa ku ra	Father grain king
+seq_484	ta ch ka ch	Three Cut Person Cut
+seq_485	ka ta si	Person three sit
+seq_486	ga dh ch	Great hold cut
+seq_487	la bh ka ra ma	Small Be Person King Mother
+seq_488	ku dh ku da ra	Grain Hold Grain Do King
+seq_489	na bh ma ma	Water Be Mother Mother
+seq_490	pa na dh	Father water hold
+seq_491	ku dh pa	Grain hold father
+seq_492	la ka ta	Small person three
+seq_493	ka pa pa ta ga	Person Father Father Three Great
+seq_494	ku la pa ta ra la	Grain Small Father Three King Small
+seq_495	ba ka pa	Good person father
+seq_496	ka na pa nan ta	Person Water Father Nan Three
+seq_497	dh ta ku	Hold three grain
+seq_498	ta pa ma	Three father mother
+seq_499	ra pa ta pa na	King Father Three Father Water
+seq_500	ku la ku	Grain small grain
+seq_501	ra si pa	King sit father
+seq_502	ta pu ra da pu	Three Pure King Do Pure
+seq_503	ta nan ma la	Three Nan Mother Small
+seq_504	la ma ka bh ta ka	Small Mother Person Be Three Person
+seq_505	ha ka pa	Land person father
+seq_506	gh ku pa ka dh ta na	House Grain Father Person Hold Three Water
+seq_507	pa sa mu	The father of stand mouth
+seq_508	bh ta ja ch la	Be Three Come Cut Small
+seq_509	ja sa ka ma	Come Stand Person Mother
+seq_510	pa ma ch	Father mother cut
+seq_511	ka ta na sa	Person Three Water Stand
+seq_512	ka ta gh na ma	Person Three House Water Mother
+seq_513	pa ra la bh ma	Father King Small Be Mother
+seq_514	ba ta nan	Good three nan
+seq_515	pa un ta gh	Father Up Three House
+seq_516	ga la pa	Great small father
+seq_517	pa pa sa	Father father stand
+seq_518	gh ku dh	House grain hold
+seq_519	la ba sa pr ma dh	Small Good Stand Before Mother Hold
+seq_520	ka la ma	Person small mother
+seq_521	ba ta ka	Good three person
+seq_522	ma pa ka	Mother father person
+seq_523	ta ra sa	Three king stand
+seq_524	dh gh bh ka ra	Hold House Be Person King
+seq_525	pa pa la ra na	Father Father Small King Water
+seq_526	ba gh ha	Good house land
+seq_527	ku na ku	Grain water grain
+seq_528	ka ka la ra	Person Person Small King
+seq_529	dh la ra an	Hold Small King At
+seq_530	si sa la mu la	Sit Stand Small Mouth Small
+seq_531	na un ma	Water up mother
+seq_532	na ta ma	Water three mother
+seq_533	ta ch bh ta ma	Three Cut Be Three Mother
+seq_534	pa la ka la	Father Small Person Small
+seq_535	nan ma na	Nan mother water
+seq_536	na na na ra	Water Water Water King
+seq_537	ga na dh	Great water hold
+seq_538	na ka na ka	Water Person Water Person
+seq_539	ku ka ja	Grain person come
+seq_540	ka ha sa	Person land stand
+seq_541	ku sa sa ma	Grain Stand Stand Mother
+seq_542	bh ja sa	Be come stand
+seq_543	ch la ta	Cut small three
+seq_544	ch ka ma	Cut person mother
+seq_545	pa bh ma	Father be mother
+seq_546	ra dh la	King hold small
+seq_547	ra gh ta	King house three
+seq_548	ma ku ba	Mother grain good
+seq_549	la sa la ta	Small Stand Small Three
+seq_550	na na la bh	Water Water Small Be
+seq_551	ra na la na	King Water Small Water
+seq_552	ta ch na	Three cut water
+seq_553	bh na pa sa ch	Be Water Father Stand Cut
+seq_554	pa bh nan	Father be nan
+seq_555	pa pa ta nan ma sa	Father Father Three Nan Mother Stand
+seq_556	ra ma la	King mother small
+seq_557	ka ku ka ta	Person Grain Person Three
+seq_558	la ra sa	Small king stand
+seq_559	la sa sa nan	Small Stand Stand Nan
+seq_560	ta ga ha	Three great land
+seq_561	g ba ka ku sa ta	Cow Good Person Grain Stand Three
+seq_562	ku ma la ka pa ja pr ka	Grain Mother Small Person Father Come Before Person
+seq_563	ta ta na	Three three water
+seq_564	ma ka dh sa	Mother Person Hold Stand
+seq_565	bh ga na nan ma pa	Be Great Water Nan Mother Father
+seq_566	dh sa ha na ka ja	Hold Stand Land Water Person Come
+seq_567	g ma ta bh	Cow Mother Three Be
+seq_568	ta ma sa	Three mother stand
+seq_569	ta pa pa ch	Three Father Father Cut
+seq_570	ra ha nan dh	King Land Nan Hold
+seq_571	pa la pa	Father small father
+seq_572	pa pa na ta ku bh	Father Father Water Three Grain Be
+seq_573	sa ka dh mu na	Stand Person Hold Mouth Water
+seq_574	mu ku ch	Mouth grain cut
+seq_575	ta mu ka pa	Three Mouth Person Father
+seq_576	ku ta ma	Grain three mother
+seq_577	ka la ra la	Person Small King Small
+seq_578	sa ka pa ka	Stand Person Father Person
+seq_579	ja ma mu nan	Come Mother Mouth Nan
+seq_580	la ka pa la	Small Person Father Small
+seq_581	la ku ma ra	Small Grain Mother King
+seq_582	pa sa pa	The father of stand father
+seq_583	gh ga ta	House great three
+seq_584	na pa la pa ma	Water Father Small Father Mother
+seq_585	ga la ha bh	Great Small Land Be
+seq_586	ch ka la	Cut person small
+seq_587	la pa nan sa	Small Father Nan Stand
+seq_588	pa na ra dh ga	Father Water King Hold Great
+seq_589	na ta pa	Water three father
+seq_590	nan la na ch	Nan Small Water Cut
+seq_591	ka bh ka	Person be person
+seq_592	pa na ka bh la	Father Water Person Be Small
+seq_593	ka pa sh ma ra ga	Person Father Shine Mother King Great
+seq_594	ka ta na na pa ta	Person Three Water Water Father Three
+seq_595	ta ma bh na sa ka ma	Three Mother Be Water Stand Person Mother
+seq_596	ga ma sa	Great mother stand
+seq_597	ch ma ga na	Cut Mother Great Water
+seq_598	dh pa ma pa	Hold Father Mother Father
+seq_599	g ba ja	Cow good come
+seq_600	na ka ku na sa la la ta	Water Person Grain Water Stand Small Small Three
+seq_601	ta la ga	Three small great
+seq_602	sa un ja	The stand up come
+seq_603	ma sa la	The mother of stand small
+seq_604	ka sa pa na la	Person Stand Father Water Small
+seq_605	ra la ma ba	King Small Mother Good
+seq_606	sa ka la dh	Stand Person Small Hold
+seq_607	pa bh sa ku pa ch	Father Be Stand Grain Father Cut
+seq_608	na ha ta	Water land three
+seq_609	ka ka nan	Person person nan
+seq_610	na ka ku	Water person grain
+seq_611	ma pa nan pa ta na ta ka	Mother Father Nan Father Three Water Three Person
+seq_612	mu ka la	Mouth person small
+seq_613	ma na ch ga	Mother Water Cut Great
+seq_614	ka ha la	Person land small
+seq_615	pa ku na	Father grain water
+seq_616	pa sa pa ga ha ka	Father Stand Father Great Land Person
+seq_617	bh pa ha	Be father land
+seq_618	pa ba nan	Father good nan
+seq_619	ga sa sa ta ja ka	Great Stand Stand Three Come Person
+seq_620	sa la ma	The stand small mother
+seq_621	ba ma ha	Good mother land
+seq_622	ku ma pa ka	Grain Mother Father Person
+seq_623	mu sa ta	Mouth stand three
+seq_624	ka na ga	Person water great
+seq_625	la pa pa	Small father father
+seq_626	nan la na	Nan small water
+seq_627	na ga sa ku bh	Water Great Stand Grain Be
+seq_628	ka ha g g pa	Person Land Cow Cow Father
+seq_629	pa ta ta ma dh ma	Father Three Three Mother Hold Mother
+seq_630	ra na sa pa bh ba la	King Water Stand Father Be Good Small
+seq_631	ch pa ra	Cut father king
+seq_632	na pa kh ja	Water Father Sky Come
+seq_633	la la na	Small small water
+seq_634	sa pa la	The stand father small
+seq_635	ku ta ch dh mu ma	Grain Three Cut Hold Mouth Mother
+seq_636	na la ka ra ma ra	Water Small Person King Mother King
+seq_637	ra ra ka dh	King King Person Hold
+seq_638	pu ta dh la	Pure Three Hold Small
+seq_639	pa na ka	Father water person
+seq_640	ku sa ta	Grain stand three
+seq_641	pa gh pa pa	Father House Father Father
+seq_642	gh sa pa la ma pu	House Stand Father Small Mother Pure
+seq_643	ma ta la na	Mother Three Small Water
+seq_644	gh ka pa na	House Person Father Water
+seq_645	nan ta pa	Nan three father
+seq_646	pa pa ta la ta	Father Father Three Small Three
+seq_647	la ta sa na sa	Small Three Stand Water Stand
+seq_648	ba ka ta	Good person three
+seq_649	pa ba da pa	Father Good Do Father
+seq_650	pa ku la	Father grain small
+seq_651	ta pa ta sa pa an	Three Father Three Stand Father At
+seq_652	la la g	Small small cow
+seq_653	sa na pa sa	Stand Water Father Stand
+seq_654	ku nan ch ta ba gh	Grain Nan Cut Three Good House
+seq_655	ga ku na	Great grain water
+seq_656	sa la pa ka	Stand Small Father Person
+seq_657	ga ku pa ka	Great Grain Father Person
+seq_658	ma dh nan	Mother hold nan
+seq_659	ch nan sa	Cut nan stand
+seq_660	ka ha na pa	Person Land Water Father
+seq_661	ma ta gh mu nan	Mother Three House Mouth Nan
+seq_662	ra la ku ma	King Small Grain Mother
+seq_663	ch la gh pa la	Cut Small House Father Small
+seq_664	dh ra ra ra ma	Hold King King King Mother
+seq_665	ka na ta	Person water three
+seq_666	pa ra ma nan ka	Father King Mother Nan Person
+seq_667	la ba la pa	Small Good Small Father
+seq_668	ha ch ch	Land cut cut
+seq_669	ra na ra ga ta dh	King Water King Great Three Hold
+seq_670	ma la pa ha	Mother Small Father Land
+seq_671	pa la nan	Father small nan
+seq_672	pa ku ta	Father grain three
+seq_673	si pa pa ta ku ka	Sit Father Father Three Grain Person
+seq_674	sa na ga	The stand water great
+seq_675	ma ka bh ma	Mother Person Be Mother
+seq_676	ku ga na	Grain great water
+seq_677	na ch si	Water cut sit
+seq_678	ma ra pa ba	Mother King Father Good
+seq_679	ku nan sa ha ba	Grain Nan Stand Land Good
+seq_680	ma la ha ra pa	Mother Small Land King Father
+seq_681	ta bh ma	Three be mother
+seq_682	ta ha pa na ra	Three Land Father Water King
+seq_683	sh ta pa kh	Shine Three Father Sky
+seq_684	la na ma	Small water mother
+seq_685	ra ku ta	King grain three
+seq_686	pa la ra ga dh	Father Small King Great Hold
+seq_687	ba da la	Good do small
+seq_688	bh bh dh	Be be hold
+seq_689	da ra la da pa	Do King Small Do Father
+seq_690	la ra ra la	Small King King Small
+seq_691	bh ka pa	Be person father
+seq_692	la ta ra	Small three king
+seq_693	pa sa nan	The father of stand nan
+seq_694	pa dh la	Father hold small
+seq_695	bh ma ku na pa	Be Mother Grain Water Father
+seq_696	sa pa sa	The stand father stand
+seq_697	la ta sa na	Small Three Stand Water
+seq_698	ka na na ka	Person Water Water Person
+seq_699	la ga na	Small great water
+seq_700	ku nan ra	Grain nan king
+seq_701	na ma la	Water mother small
+seq_702	na la pa	Water small father
+seq_703	na pa pa sa ch ra	Water Father Father Stand Cut King
+seq_704	na dh la pa	Water Hold Small Father
+seq_705	ja bh sa ch la	Come Be Stand Cut Small
+seq_706	ta sa bh pa	Three Stand Be Father
+seq_707	ha dh ba	Land hold good
+seq_708	ba dh sa	Good hold stand
+seq_709	ku na ta la	Grain Water Three Small
+seq_710	ta ja pa ku ma	Three Come Father Grain Mother
+seq_711	ba ra ka	Good king person
+seq_712	ja la ta	Come small three
+seq_713	la la la sa	Small Small Small Stand
+seq_714	ma ku ch ta	Mother Grain Cut Three
+seq_715	ka la ja sa	Person Small Come Stand
+seq_716	dh ku dh	Hold grain hold
+seq_717	nan ga na	Nan great water
+seq_718	ma nan pa sa ja	Mother Nan Father Stand Come
+seq_719	gh gh ch na	House House Cut Water
+seq_720	na sa ma sa	Water Stand Mother Stand
+seq_721	gh ba ka	House good person
+seq_722	ma pa mu ra la	Mother Father Mouth King Small
+seq_723	ra nan pa pa	King Nan Father Father
+seq_724	ba na na na ku ba	Good Water Water Water Grain Good
+seq_725	dh sa ra	Hold stand king
+seq_726	bh pa ba	Be father good
+seq_727	ka pa ta	Person father three
+seq_728	mu g na	Mouth cow water
+seq_729	ta ga ka	Three great person
+seq_730	sa ma ka	The stand mother person
+seq_731	ra dh pa	King hold father
+seq_732	ku na pa mu	Grain Water Father Mouth
+seq_733	ja la ma	Come small mother
+seq_734	ka la ja	Person small come
+seq_735	la nan ma	Small nan mother
+seq_736	la bh sh	Small be shine
+seq_737	na ba ta la sa	Water Good Three Small Stand
+seq_738	ku ra ra ma ku	Grain King King Mother Grain
+seq_739	la ta ka sa ka	Small Three Person Stand Person
+seq_740	sa dh bh	The stand hold be
+seq_741	bh dh ta	Be hold three
+seq_742	ka ka gh pa mu	Person Person House Father Mouth
+seq_743	pa ka ma	Father person mother
+seq_744	ta ka ku	Three person grain
+seq_745	ka pa ta	Person father three
+seq_746	pa pa mu	Father father mouth
+seq_747	na la sa ku	Water Small Stand Grain
+seq_748	ma gh ra	Mother house king
+seq_749	ka ga ka	Person great person
+seq_750	bh na ma	Be water mother
+seq_751	la ra ku ta ku	Small King Grain Three Grain
+seq_752	nan la na	Nan small water
+seq_753	ba na pa na sa	Good Water Father Water Stand
+seq_754	la ha ma pa sa	Small Land Mother Father Stand
+seq_755	sa pa ka	The stand father person
+seq_756	ga ka ma	Great person mother
+seq_757	ma pa ku	Mother father grain
+seq_758	ch na la ta	Cut Water Small Three
+seq_759	ka na na pa	Person Water Water Father
+seq_760	ta pa sa ta	Three Father Stand Three
+seq_761	pa sa ra	The father of stand king
+seq_762	ta ha la	Three land small
+seq_763	pu na gh	Pure water house
+seq_764	ta ha ba	Three land good
+seq_765	ku ja pa pa	Grain Come Father Father
+seq_766	ra pa ma	King father mother
+seq_767	ta pa ka la	Three Father Person Small
+seq_768	la nan sa	Small nan stand
+seq_769	ma la dh ja ma	Mother Small Hold Come Mother
+seq_770	la pu na	Small pure water
+seq_771	ma bh ka nan	Mother Be Person Nan
+seq_772	sa ta ra	The stand three king
+seq_773	ha pa pa pa	Land Father Father Father
+seq_774	la na ku	Small water grain
+seq_775	ka pa ma	Person father mother
+seq_776	si na ma mu un	Sit Water Mother Mouth Up
+seq_777	ga ja na	Great come water
+seq_778	pa da nan	Father do nan
+seq_779	ta ch ch	Three cut cut
+seq_780	sa bh ta sa	Stand Be Three Stand
+seq_781	ma na ku ra	Mother Water Grain King
+seq_782	ta ta pa ma la	Three Three Father Mother Small
+seq_783	pa ra pa ha ka	Father King Father Land Person
+seq_784	la bh ja ja dh	Small Be Come Come Hold
+seq_785	nan ma si pa ba	Nan Mother Sit Father Good
+seq_786	na ra pa sa	Water King Father Stand
+seq_787	ma gh ta	Mother house three
+seq_788	ba mu nan	Good mouth nan
+seq_789	ja ra ha pa gh	Come King Land Father House
+seq_790	sa pa ma	The stand father mother
+seq_791	dh ka ta dh	Hold Person Three Hold
+seq_792	ku ka sa	Grain person stand
+seq_793	ku ra nan ra na	Grain King Nan King Water
+seq_794	pa ra nan ra	Father King Nan King
+seq_795	ja nan ga la pa pa	Come Nan Great Small Father Father
+seq_796	la na na pa	Small Water Water Father
+seq_797	na dh ka dh	Water Hold Person Hold
+seq_798	dh ra ka sa	Hold King Person Stand
+seq_799	pa pa ka	Father father person
+seq_800	ha ka pa	Land person father
+seq_801	sa ba dh ba ma	Stand Good Hold Good Mother
+seq_802	ta ka ba	Three person good
+seq_803	na pa na ma	Water Father Water Mother
+seq_804	na mu la	Water mouth small
+seq_805	pa ta ha dh na	Father Three Land Hold Water
+seq_806	pa ka ra	Father person king
+seq_807	bh pa ma	Be father mother
+seq_808	na ka pa sa ra pr ma	Water Person Father Stand King Before Mother
+seq_809	ta an ba pa	Three At Good Father
+seq_810	da ba pa	Do good father
+seq_811	nan ta sa	Nan three stand
+seq_812	ta pa la ha sa nan	Three Father Small Land Stand Nan
+seq_813	sa ta ka ta	Stand Three Person Three
+seq_814	ra pa mu nan	King Father Mouth Nan
+seq_815	pa ka ch	Father person cut
+seq_816	pa ta gh	Father three house
+seq_817	nan sa mu ta ma	Nan Stand Mouth Three Mother
+seq_818	la ga la sa pa ku	Small Great Small Stand Father Grain
+seq_819	ra ku pa	King grain father
+seq_820	ka ba ma la	Person Good Mother Small
+seq_821	ch ta ra	Cut three king
+seq_822	ka sa ma pa	Person Stand Mother Father
+seq_823	ta ch ta ta	Three Cut Three Three
+seq_824	ga ta g	Great three cow
+seq_825	ka ku ta ma	Person Grain Three Mother
+seq_826	ka da dh pa	Person Do Hold Father
+seq_827	ka nan ra	Person nan king
+seq_828	ma na nan	Mother water nan
+seq_829	ba na la bh ka ka mu	Good Water Small Be Person Person Mouth
+seq_830	na ga sa gh	Water Great Stand House
+seq_831	ka pa na mu sa ma ra un	Person Father Water Mouth Stand Mother King Up
+seq_832	na ka na ka la	Water Person Water Person Small
+seq_833	ra pa mu	King father mouth
+seq_834	na ka ch na na	Water Person Cut Water Water
+seq_835	ta ma na gh pa	Three Mother Water House Father
+seq_836	ma pa sa	Mother father stand
+seq_837	na na la	Water water small
+seq_838	bh pa ta dh ha	Be Father Three Hold Land
+seq_839	dh ma na	Hold mother water
+seq_840	pu ka na ku la na	Pure Person Water Grain Small Water
+seq_841	gh sa ka ja	House Stand Person Come
+seq_842	ra ka sa la ta g ra sa	King Person Stand Small Three Cow King Stand
+seq_843	la ba na	Small good water
+seq_844	pa la dh	Father small hold
+seq_845	bh ha sa	Be land stand
+seq_846	ra ha ku ha sa	King Land Grain Land Stand
+seq_847	pa ch ku na	Father Cut Grain Water
+seq_848	ta gh ka	Three house person
+seq_849	da sa na sa	Do Stand Water Stand
+seq_850	ga si ra	Great sit king
+seq_851	la ra ra g ha	Small King King Cow Land
+seq_852	pa ku kh	Father grain sky
+seq_853	la ma na nan	Small Mother Water Nan
+seq_854	pa ku ga ka bh	Father Grain Great Person Be
+seq_855	ta gh pa na ch	Three House Father Water Cut
+seq_856	ku sa ha	Grain stand land
+seq_857	na ta bh	Water three be
+seq_858	ka ra ka na	Person King Person Water
+seq_859	sa ma ba na	Stand Mother Good Water
+seq_860	na pa ta	Water father three
+seq_861	na pa ch	Water father cut
+seq_862	ja na ba ku	Come Water Good Grain
+seq_863	na ja ma la	Water Come Mother Small
+seq_864	ta ta la ga	Three Three Small Great
+seq_865	pr bh ka	Before be person
+seq_866	sa la pa na sa	Stand Small Father Water Stand
+seq_867	pa ma ja	Father mother come
+seq_868	ka la la bh ta	Person Small Small Be Three
+seq_869	pa la na	Father small water
+seq_870	mu dh la ra	Mouth Hold Small King
+seq_871	mu sa ba ba	Mouth Stand Good Good
+seq_872	pa na pa	Father water father
+seq_873	ka sa ta nan	Person Stand Three Nan
+seq_874	la sa la na	Small Stand Small Water
+seq_875	la ka mu na ga	Small Person Mouth Water Great
+seq_876	ta sa ka	Three stand person
+seq_877	ka na na	Person water water
+seq_878	na ma ku na	Water Mother Grain Water
+seq_879	ta an ma la dh	Three At Mother Small Hold
+seq_880	dh pa pa ta pa ta na	Hold Father Father Three Father Three Water
+seq_881	pa sa na pa ha	Father Stand Water Father Land
+seq_882	mu ta pa ka	Mouth Three Father Person
+seq_883	na sh bh	Water shine be
+seq_884	la ha la	Small land small
+seq_885	ka pa nan	Person father nan
+seq_886	nan dh ra	Nan hold king
+seq_887	ka ta pa	Person three father
+seq_888	pa pr ba ha na	Father Before Good Land Water
+seq_889	ku nan na	Grain nan water
+seq_890	ra pa ra dh	King Father King Hold
+seq_891	la ma ja	Small mother come
+seq_892	la pa ta sa nan na	Small Father Three Stand Nan Water
+seq_893	ma bh sa	Mother be stand
+seq_894	la ra ku pa	Small King Grain Father
+seq_895	mu ma ch sa	Mouth Mother Cut Stand
+seq_896	ra pa si ku	King Father Sit Grain
+seq_897	ka mu la	Person mouth small
+seq_898	ra la la pa	King Small Small Father
+seq_899	mu bh sa	Mouth be stand
+seq_900	ch na la pr	Cut Water Small Before
+seq_901	ka na ra dh	Person Water King Hold
+seq_902	nan pa ta ha	Nan Father Three Land
+seq_903	ka ra pr bh ku	Person King Before Be Grain
+seq_904	pa ku ra	Father grain king
+seq_905	ma ka ma pa ra	Mother Person Mother Father King
+seq_906	dh ch ta	Hold cut three
+seq_907	ta ha na ch la	Three Land Water Cut Small
+seq_908	la sa re ka sa sa	Small Stand Flow Person Stand Stand
+seq_909	g ku pa pa	Cow Grain Father Father
+seq_910	na nan ka ku	Water Nan Person Grain
+seq_911	gh un la ba	House Up Small Good
+seq_912	ka la na na dh	Person Small Water Water Hold
+seq_913	sa ta ma	The stand three mother
+seq_914	pa na na dh na ta	Father Water Water Hold Water Three
+seq_915	pa ra ka	Father king person
+seq_916	la la pa	Small small father
+seq_917	ra ta ku sa	King Three Grain Stand
+seq_918	bh na nan	Be water nan
+seq_919	ta pa pa ta	Three Father Father Three
+seq_920	nan sa nan	Nan stand nan
+seq_921	ku la pu	Grain small pure
+seq_922	ka dh ka sa gh	Person Hold Person Stand House
+seq_923	ta g pa ku ka	Three Cow Father Grain Person
+seq_924	bh nan gh la	Be Nan House Small
+seq_925	bh ku pa ra	Be Grain Father King
+seq_926	ku bh ta	Grain be three
+seq_927	sa sa bh	The stand stand be
+seq_928	nan mu pa ja	Nan Mouth Father Come
+seq_929	la bh nan	Small be nan
+seq_930	ma bh la	Mother be small
+seq_931	ka sh ka	Person shine person
+seq_932	ma sa na sa sa la	Mother Stand Water Stand Stand Small
+seq_933	ta na ra	Three water king
+seq_934	ch ka pa na pr la	Cut Person Father Water Before Small
+seq_935	dh sa mu ma	Hold Stand Mouth Mother
+seq_936	ba sa si pa ku	Good Stand Sit Father Grain
+seq_937	ku da sa	Grain do stand
+seq_938	nan da ja	Nan do come
+seq_939	ra na ku ra	King Water Grain King
+seq_940	ja ma la dh ja ka	Come Mother Small Hold Come Person
+seq_941	pa sa g pa	Father Stand Cow Father
+seq_942	ka na ka	Person water person
+seq_943	ja pa pa	Come father father
+seq_944	ra sa pa pa ku	King Stand Father Father Grain
+seq_945	la ra pa ha	Small King Father Land
+seq_946	la ba ra	Small good king
+seq_947	ra pa ma	King father mother
+seq_948	pa ka ka la	Father Person Person Small
+seq_949	ma ka bh ka sa	Mother Person Be Person Stand
+seq_950	pa pa la ga	Father Father Small Great
+seq_951	ma ka ku	Mother person grain
+seq_952	pa da da la	Father Do Do Small
+seq_953	ma na ka	Mother water person
+seq_954	la la pa	Small small father
+seq_955	pa mu pa ha pa pa	Father Mouth Father Land Father Father
+seq_956	pu sa na pa	Pure Stand Water Father
+seq_957	sa bh ra	The stand be king
+seq_958	ka na na la sa	Person Water Water Small Stand
+seq_959	na ja la ma pr la	Water Come Small Mother Before Small
+seq_960	sa la sa	The stand small stand
+seq_961	ma bh ku	Mother be grain
+seq_962	ma ta pa	Mother three father
+seq_963	pa dh sa	Father hold stand
+seq_964	ba ka sa	Good person stand
+seq_965	ta pa la pa	Three Father Small Father
+seq_966	pa ja pa	Father come father
+seq_967	pa na ku ra g	Father Water Grain King Cow
+seq_968	ta mu sa ba ta	Three Mouth Stand Good Three
+seq_969	ta mu ma ba	Three Mouth Mother Good
+seq_970	ra ha ba	King land good
+seq_971	ga ra na ba	Great King Water Good
+seq_972	ba ku pa	Good grain father
+seq_973	na ka pa na ka sa	Water Person Father Water Person Stand
+seq_974	da ka pa	Do person father
+seq_975	la bh nan	Small be nan
+seq_976	pa ba mu	Father good mouth
+seq_977	ga ba ku ra	Great Good Grain King
+seq_978	la la sa ch	Small Small Stand Cut
+seq_979	ka ra ta ba	Person King Three Good
+seq_980	na ka sa ra	Water Person Stand King
+seq_981	ta ha kh	Three land sky
+seq_982	ha sa ma ra ka	Land Stand Mother King Person
+seq_983	bh pa bh	Be father be
+seq_984	pa pa ra	Father father king
+seq_985	la la ta sa	Small Small Three Stand
+seq_986	ku ga la la ka	Grain Great Small Small Person
+seq_987	ku ma na dh	Grain Mother Water Hold
+seq_988	ma ka sa	Mother person stand
+seq_989	pa ta ta sa	Father Three Three Stand
+seq_990	sa pa la pa	Stand Father Small Father
+seq_991	ha ga ka	Land great person
+seq_992	la ha dh ka	Small Land Hold Person
+seq_993	nan dh ka pa sa	Nan Hold Person Father Stand
+seq_994	la ku ka na	Small Grain Person Water
+seq_995	pa la ma ka	Father Small Mother Person
+seq_996	da ra ra ka	Do King King Person
+seq_997	na la mu	Water small mouth
+seq_998	ka dh ch	Person hold cut
+seq_999	na na na	Water water water
+seq_1000	ch ka pa	Cut person father
+seq_1001	ta ta ba na	Three Three Good Water
+seq_1002	ta ra na ku	Three King Water Grain
+seq_1003	ch ha ka	Cut land person
+seq_1004	ma ra ku	Mother king grain
+seq_1005	ba dh sa sa	Good Hold Stand Stand
+seq_1006	ha kh na ta	Land Sky Water Three
+seq_1007	ha ka la pa	Land Person Small Father
+seq_1008	ra ma ja	The king mother comes
+seq_1009	pa dh ha	Father hold land
+seq_1010	pa ma pa pa ra	Father Mother Father Father King
+seq_1011	la ta ka sa bh	Small Three Person Stand Be
+seq_1012	na ka dh ma	Water Person Hold Mother
+seq_1013	sa ra ta la	Stand King Three Small
+seq_1014	ku ta ta	Grain three three
+seq_1015	ja na ra sa ka	Come Water King Stand Person
+seq_1016	ku sa la ku ma	Grain Stand Small Grain Mother
+seq_1017	nan la ch	Nan small cut
+seq_1018	ba ta ka ra	Good Three Person King
+seq_1019	ta ra ku	Three king grain
+seq_1020	dh la ta pa na	Hold Small Three Father Water
+seq_1021	pa pa na	Father father water
+seq_1022	ku ra pu	Grain king pure
+seq_1023	dh ma ta ba	Hold Mother Three Good
+seq_1024	sa pa bh dh	Stand Father Be Hold
+seq_1025	pr ka na	Before person water
+seq_1026	la pa ba pa sa	Small Father Good Father Stand
+seq_1027	ra sa na	The king of stand water
+seq_1028	ga dh ma	Great hold mother
+seq_1029	ta pa pa	Three father father
+seq_1030	la ba ka	Small good person
+seq_1031	ta ra na	Three king water
+seq_1032	ta re la ta	Three Flow Small Three
+seq_1033	ch ta ta	Cut three three
+seq_1034	ma pa ma dh ku	Mother Father Mother Hold Grain
+seq_1035	dh ta la si	Hold Three Small Sit
+seq_1036	ra pa ra ta	King Father King Three
+seq_1037	ta ra dh la	Three King Hold Small
+seq_1038	ba ka pa	Good person father
+seq_1039	na ta ra	Water three king
+seq_1040	ra si la	King sit small
+seq_1041	ta sa na	Three stand water
+seq_1042	la gh na	Small house water
+seq_1043	ma ba ma pa	Mother Good Mother Father
+seq_1044	mu ha dh	Mouth land hold
+seq_1045	ta ka ma	Three person mother
+seq_1046	ku ma ka	Grain mother person
+seq_1047	gh la ka ka	House Small Person Person
+seq_1048	bh ma na pa nan na	Be Mother Water Father Nan Water
+seq_1049	ba na pa ha	Good Water Father Land
+seq_1050	ku bh pa	Grain be father
+seq_1051	ma da pa gh ta	Mother Do Father House Three
+seq_1052	na la ta	Water small three
+seq_1053	kh ta sa la ka bh	Sky Three Stand Small Person Be
+seq_1054	la na na ka ka	Small Water Water Person Person
+seq_1055	ka kh mu	Person sky mouth
+seq_1056	na ta sa ka ka ma ha ta	Water Three Stand Person Person Mother Land Three
+seq_1057	sa la ma na ba	Stand Small Mother Water Good
+seq_1058	nan pa ma	Nan father mother
+seq_1059	ha pu ma pa	Land Pure Mother Father
+seq_1060	ta ra dh ch	Three King Hold Cut
+seq_1061	ra pa ku	King father grain
+seq_1062	mu ka na	Mouth person water
+seq_1063	pr sa ka ku	Before Stand Person Grain
+seq_1064	ka re pa	Person flow father
+seq_1065	pa pa la ku	Father Father Small Grain
+seq_1066	ma la pa	Mother small father
+seq_1067	pa ku ga	Father grain great
+seq_1068	ba sa sa	Good stand stand
+seq_1069	ta ta pa dh pa ja	Three Three Father Hold Father Come
+seq_1070	dh na ba ra	Hold Water Good King
+seq_1071	ka la pa na bh mu	Person Small Father Water Be Mouth
+seq_1072	ka gh ku	Person house grain
+seq_1073	ka ta la	Person three small
+seq_1074	un na ka	Up water person
+seq_1075	ku ba ma la ja	Grain Good Mother Small Come
+seq_1076	ma sa pa	The mother of stand father
+seq_1077	na na dh ta ba dh	Water Water Hold Three Good Hold
+seq_1078	dh sa ta	Hold stand three
+seq_1079	ta bh na na	Three Be Water Water
+seq_1080	na la ka la nan	Water Small Person Small Nan
+seq_1081	la ma pa pa pa ku pa ka	Small Mother Father Father Father Grain Father Person
+seq_1082	pa ta na sa sa	Father Three Water Stand Stand
+seq_1083	la ka ka	Small person person
+seq_1084	dh sa dh	Hold stand hold
+seq_1085	ja sa ba	Come stand good
+seq_1086	ma ka dh	Mother person hold
+seq_1087	ma nan ka sa pa	Mother Nan Person Stand Father
+seq_1088	la sa sa da	Small Stand Stand Do
+seq_1089	ch ba la	Cut good small
+seq_1090	ku ta ta sa	Grain Three Three Stand
+seq_1091	ra ta ta	King three three
+seq_1092	sa pa ku	The stand father grain
+seq_1093	dh nan na ta	Hold Nan Water Three
+seq_1094	la ba ra	Small good king
+seq_1095	ta ra ma ta ha	Three King Mother Three Land
+seq_1096	nan sh ba	Nan shine good
+seq_1097	ta pa pa nan	Three Father Father Nan
+seq_1098	pa la na ja	Father Small Water Come
+seq_1099	gh na na	House water water
+seq_1100	sa ha na ma la	Stand Land Water Mother Small
+seq_1101	ma pa ba	Mother father good
+seq_1102	na la ma ra	Water Small Mother King
+seq_1103	ku ma sa pa	Grain Mother Stand Father
+seq_1104	ta pa pa ku	Three Father Father Grain
+seq_1105	dh la ta	Hold small three
+seq_1106	na ka ja ka	Water Person Come Person
+seq_1107	ja sa ku	Come stand grain
+seq_1108	ra mu ta	King mouth three
+seq_1109	ta na sh bh nan pa ku	Three Water Shine Be Nan Father Grain
+seq_1110	ra ka ma	King person mother
+seq_1111	ta na ka	Three water person
+seq_1112	pa pa pa	Father father father
+seq_1113	pa an la ra	Father At Small King
+seq_1114	ku ka na	Grain person water
+seq_1115	ha pa pa ka sa na	Land Father Father Person Stand Water
+seq_1116	ma ra bh ma	Mother King Be Mother
+seq_1117	ka ta ba ta	Person Three Good Three
+seq_1118	ka ta la ba pa	Person Three Small Good Father
+seq_1119	dh ga ra sa	Hold Great King Stand
+seq_1120	bh sa la gh ja	Be Stand Small House Come
+seq_1121	ka sa ta ma ra ga sa pa	Person Stand Three Mother King Great Stand Father
+seq_1122	ba la ra la na ma sa	Good Small King Small Water Mother Stand
+seq_1123	re ka ja	Flow person come
+seq_1124	sa mu ka pa	Stand Mouth Person Father
+seq_1125	na ra ch ka pa	Water King Cut Person Father
+seq_1126	pa na si pa	Father Water Sit Father
+seq_1127	na ka ha	Water person land
+seq_1128	ka sa kh	Person stand sky
+seq_1129	pa ma ku	Father mother grain
+seq_1130	pa mu sa	Father mouth stand
+seq_1131	sa na ha	The stand water land
+seq_1132	mu na la	Mouth water small
+seq_1133	dh sa ta ja nan ra	Hold Stand Three Come Nan King
+seq_1134	la ku ma un na	Small Grain Mother Up Water
+seq_1135	na ma ta	Water mother three
+seq_1136	ha ga na	Land great water
+seq_1137	ta na nan	Three water nan
+seq_1138	la ka pa pa	Small Person Father Father
+seq_1139	ku si ku	Grain sit grain
+seq_1140	pa na ra ra ga	Father Water King King Great
+seq_1141	bh sa pa	Be stand father
+seq_1142	pa ta ra ja nan	Father Three King Come Nan
+seq_1143	na sa ha	The water of stand land
+seq_1144	ma bh dh sa	Mother Be Hold Stand
+seq_1145	na ta ta	Water three three
+seq_1146	ch sa pa ta na	Cut Stand Father Three Water
+seq_1147	ga ta ma ma	Great Three Mother Mother
+seq_1148	ma dh la bh	Mother Hold Small Be
+seq_1149	dh la ka sa	Hold Small Person Stand
+seq_1150	na na ch	Water water cut
+seq_1151	ga nan pa	Great nan father
+seq_1152	pa ta mu bh gh	Father Three Mouth Be House
+seq_1153	pa ta bh na na	Father Three Be Water Water
+seq_1154	ba ta ba	Good three good
+seq_1155	gh ma pa	House mother father
+seq_1156	ja ra ta	Come king three
+seq_1157	ha sa na pa	Land Stand Water Father
+seq_1158	gh ma pa	House mother father
+seq_1159	mu ba ta sa	Mouth Good Three Stand
+seq_1160	ra pa la la	King Father Small Small
+seq_1161	pa ma la nan ch	Father Mother Small Nan Cut
+seq_1162	kh la si ma	Sky Small Sit Mother
+seq_1163	ra bh ba ka	King Be Good Person
+seq_1164	un ma ma ka	Up Mother Mother Person
+seq_1165	dh si sa	Hold sit stand
+seq_1166	la la ra ku ba pa na	Small Small King Grain Good Father Water
+seq_1167	ra pa gh	King father house
+seq_1168	ta ch ta na pa	Three Cut Three Water Father
+seq_1169	pa sa ba	The father of stand good
+seq_1170	ba nan na ma ta	Good Nan Water Mother Three
+seq_1171	ja ba pa	Come good father
+seq_1172	pa ku ra	Father grain king
+seq_1173	ta mu sa	Three mouth stand
+seq_1174	ma bh nan la	Mother Be Nan Small
+seq_1175	na dh ka pa	Water Hold Person Father
+seq_1176	ma ch ja	Mother cut come
+seq_1177	pa ch ba	Father cut good
+seq_1178	ta la dh ta	Three Small Hold Three
+seq_1179	na bh ka	Water be person
+seq_1180	mu nan g pa	Mouth Nan Cow Father
+seq_1181	na ch nan ku	Water Cut Nan Grain
+seq_1182	pa na la na	Father Water Small Water
+seq_1183	la pa sa ku g	Small Father Stand Grain Cow
+seq_1184	pa ka ta gh	Father Person Three House
+seq_1185	ku ga ta	Grain great three
+seq_1186	ma na ga na pa	Mother Water Great Water Father
+seq_1187	pa sa pa	The father of stand father
+seq_1188	ka nan gh	Person nan house
+seq_1189	ra nan la	King nan small
+seq_1190	ka pa g	Person father cow
+seq_1191	ka ra la	Person king small
+seq_1192	sa ku ka ma ka	Stand Grain Person Mother Person
+seq_1193	ja sa dh bh	Come Stand Hold Be
+seq_1194	gh na ka la pa	House Water Person Small Father
+seq_1195	ku ba sa gh ka	Grain Good Stand House Person
+seq_1196	na sa na	The water of stand water
+seq_1197	pa nan la gh	Father Nan Small House
+seq_1198	un ja ra	Up come king
+seq_1199	sa ta na	The stand three water
+seq_1200	la ka dh	Small person hold
+seq_1201	ma ra nan	Mother king nan
+seq_1202	la la pa	Small small father
+seq_1203	ma pa pa gh	Mother Father Father House
+seq_1204	ch pa ka nan ka ka	Cut Father Person Nan Person Person
+seq_1205	ba ch ra pa	Good Cut King Father
+seq_1206	ta la ra na la	Three Small King Water Small
+seq_1207	ma bh ku ha	Mother Be Grain Land
+seq_1208	ta ra la na	Three King Small Water
+seq_1209	pa ta si	Father three sit
+seq_1210	dh ha sa	Hold land stand
+seq_1211	sa ka ba	The stand person good
+seq_1212	ra ku na	King grain water
+seq_1213	ka dh ku sa	Person Hold Grain Stand
+seq_1214	ga ba na na na mu	Great Good Water Water Water Mouth
+seq_1215	sa na ta	The stand water three
+seq_1216	ka ra pa pa	Person King Father Father
+seq_1217	gh na sa	House water stand
+seq_1218	na na ch	Water water cut
+seq_1219	ta dh la	Three hold small
+seq_1220	ra ka un	King person up
+seq_1221	ku la la ma	Grain Small Small Mother
+seq_1222	ta ka ku ha na	Three Person Grain Land Water
+seq_1223	nan sa nan pa ta	Nan Stand Nan Father Three
+seq_1224	ma dh ch sa	Mother Hold Cut Stand
+seq_1225	dh na ka ma ch	Hold Water Person Mother Cut
+seq_1226	ch la la	Cut small small
+seq_1227	sa ga sa	The stand great stand
+seq_1228	ma ja ra gh	Mother Come King House
+seq_1229	na pa sa ba la ma	Water Father Stand Good Small Mother
+seq_1230	la mu ku	Small mouth grain
+seq_1231	sh bh ma ba	Shine Be Mother Good
+seq_1232	ma nan ta sa sa na	Mother Nan Three Stand Stand Water
+seq_1233	na sa sa	The water of stand stand
+seq_1234	la la pa	Small small father
+seq_1235	na gh pa	Water house father
+seq_1236	ra pa pa la pa	King Father Father Small Father
+seq_1237	sa dh na	The stand hold water
+seq_1238	ba ra pa	Good king father
+seq_1239	pa sa bh la mu	Father Stand Be Small Mouth
+seq_1240	ch pa ba	Cut father good
+seq_1241	na ku nan	Water grain nan
+seq_1242	pa ma pa g ka	Father Mother Father Cow Person
+seq_1243	ta ka dh ku mu	Three Person Hold Grain Mouth
+seq_1244	pa pa ka la ka	Father Father Person Small Person
+seq_1245	gh pa dh	House father hold
+seq_1246	pa dh ra pa	Father Hold King Father
+seq_1247	ma la ma na	Mother Small Mother Water
+seq_1248	la na pa pa	Small Water Father Father
+seq_1249	ku ha pa la ha	Grain Land Father Small Land
+seq_1250	da mu la	Do mouth small
+seq_1251	pa la la ka	Father Small Small Person
+seq_1252	ku na la	Grain water small
+seq_1253	ka la ra bh	Person Small King Be
+seq_1254	ka ku ha	Person grain land
+seq_1255	ra dh mu ta na	King Hold Mouth Three Water
+seq_1256	sa mu bh na nan	Stand Mouth Be Water Nan
+seq_1257	la na na na ra	Small Water Water Water King
+seq_1258	nan pa la gh	Nan Father Small House
+seq_1259	na ka ku	Water person grain
+seq_1260	na pa pa	Water father father
+seq_1261	pa ka ch pa	Father Person Cut Father
+seq_1262	ba na nan sa pa ha ja na	Good Water Nan Stand Father Land Come Water
+seq_1263	sa pa na	Sacred father water
+seq_1264	ba nan ta	Good nan three
+seq_1265	ta ma la	Three mother small
+seq_1266	ta sa sa mu gh ta	Three Stand Stand Mouth House Three
+seq_1267	ma pa sa si	Mother Father Stand Sit
+seq_1268	pa sa ta ba	Father Stand Three Good
+seq_1269	ka pa ga	Person father great
+seq_1270	ha la pa ta pa	Land Small Father Three Father
+seq_1271	na ba ka	Water good person
+seq_1272	ta mu la	Three mouth small
+seq_1273	la ta ta ku	Small Three Three Grain
+seq_1274	bh pa ba ha	Be Father Good Land
+seq_1275	ra na bh re	King Water Be Flow
+seq_1276	ha ta ta	Land three three
+seq_1277	bh na ma	Be water mother
+seq_1278	na na la	Water water small
+seq_1279	ta na ka	Three water person
+seq_1280	ka da la	Person do small
+seq_1281	na ku dh sa	Water Grain Hold Stand
+seq_1282	mu ma sh ka pa	Mouth Mother Shine Person Father
+seq_1283	pa ra sh gh	Father King Shine House
+seq_1284	ku ha pa	Grain land father
+seq_1285	pa pa na pu ta	Father Father Water Pure Three
+seq_1286	ch ka na	Cut person water
+seq_1287	sa ra ba	The stand king good
+seq_1288	ch ba ra ka	Cut Good King Person
+seq_1289	pa pa pa na ra	Father Father Father Water King
+seq_1290	ba ka na mu	Good Person Water Mouth
+seq_1291	da ka ta	Do person three
+seq_1292	gh bh ku	House be grain
+seq_1293	pa da na	Father do water
+seq_1294	ka ka ta ku	Person Person Three Grain
+seq_1295	la pa si ha	Small Father Sit Land
+seq_1296	gh pa la dh	House Father Small Hold
+seq_1297	ka ku ch	Person grain cut
+seq_1298	la ku nan	Small grain nan
+seq_1299	na ku sa	Water grain stand
+seq_1300	la gh pa si ma	Small House Father Sit Mother
+seq_1301	gh ka ch	House person cut
+seq_1302	ta dh sa un ka pa	Three Hold Stand Up Person Father
+seq_1303	sa nan ch	The stand nan cut
+seq_1304	ma sa la	The mother of stand small
+seq_1305	ma ra ra	Mother king king
+seq_1306	dh ba ha ku	Hold Good Land Grain
+seq_1307	ra sa ka na	King Stand Person Water
+seq_1308	pa la pa ra ta	Father Small Father King Three
+seq_1309	sa la pr kh	Stand Small Before Sky
+seq_1310	ra ta ta	King three three
+seq_1311	ka na bh	Person water be
+seq_1312	la nan pa na	Small Nan Father Water
+seq_1313	an dh ra	At hold king
+seq_1314	sa si ma	The stand sit mother
+seq_1315	na re ch si	Water Flow Cut Sit
+seq_1316	pa ta la ga pa	Father Three Small Great Father
+seq_1317	sh ch ra sa ra ra	Shine Cut King Stand King King
+seq_1318	na pa pa un	Water Father Father Up
+seq_1319	bh na gh	Be water house
+seq_1320	ma si ma	Mother sit mother
+seq_1321	dh ch ba	Hold cut good
+seq_1322	na ma mu	Water mother mouth
+seq_1323	sa pa ta na	Stand Father Three Water
+seq_1324	pa mu dh dh	Father Mouth Hold Hold
+seq_1325	pa ku ku mu ra	Father Grain Grain Mouth King
+seq_1326	ta na ta	Three water three
+seq_1327	na pa la ka ku	Water Father Small Person Grain
+seq_1328	la ma la ka sh la	Small Mother Small Person Shine Small
+seq_1329	ka pa ba	Person father good
+seq_1330	ra dh la	King hold small
+seq_1331	la pr ch la na	Small Before Cut Small Water
+seq_1332	la re dh ta	Small Flow Hold Three
+seq_1333	ga ga ga dh	Great Great Great Hold
+seq_1334	ra pa ma	King father mother
+seq_1335	na pa gh ku	Water Father House Grain
+seq_1336	na ba ka pa	Water Good Person Father
+seq_1337	na pa na	The father of water
+seq_1338	ka ta ma	Person three mother
+seq_1339	mu sa la ma	Mouth Stand Small Mother
+seq_1340	bh ba sa ra	Be Good Stand King
+seq_1341	ta la gh	Three small house
+seq_1342	ku pu na na ka	Grain Pure Water Water Person
+seq_1343	ka ba ku	Person good grain
+seq_1344	ga ra pa ku la	Great King Father Grain Small
+seq_1345	ka pa ta	Person father three
+seq_1346	ma la an	Mother small at
+seq_1347	ta la ba ta na la	Three Small Good Three Water Small
+seq_1348	sa ba pa dh na ra	Stand Good Father Hold Water King
+seq_1349	pa pa ka dh pa	Father Father Person Hold Father
+seq_1350	sa na la	The stand water small
+seq_1351	na na gh ba pa	Water Water House Good Father
+seq_1352	ja na ra na pa ka pa	Come Water King Water Father Person Father
+seq_1353	ta la ra ka	Three Small King Person
+seq_1354	la la ga	Small small great
+seq_1355	ta mu ra	Three mouth king
+seq_1356	sa ch na ra	Stand Cut Water King
+seq_1357	nan ga ja ja ku	Nan Great Come Come Grain
+seq_1358	sa nan sa	The stand nan stand
+seq_1359	la ta nan	Small three nan
+seq_1360	ta sa un	Three stand up
+seq_1361	ta mu na pa	Three Mouth Water Father
+seq_1362	ka ta ku dh	Person Three Grain Hold
+seq_1363	ra dh la ma ta	King Hold Small Mother Three
+seq_1364	na g dh pa	Water Cow Hold Father
+seq_1365	la sa sa ra pa	Small Stand Stand King Father
+seq_1366	ku pa na na na ka	Grain Father Water Water Water Person
+seq_1367	la gh ka	Small house person
+seq_1368	la pa ja ra	Small Father Come King
+seq_1369	la ra ma ma	Small King Mother Mother
+seq_1370	la ka nan ma dh	Small Person Nan Mother Hold
+seq_1371	la ka g na	Small Person Cow Water
+seq_1372	g na ga ku ta sa	Cow Water Great Grain Three Stand
+seq_1373	ch bh pa	Cut be father
+seq_1374	bh ra ta	Be king three
+seq_1375	pa pa ha	Father father land
+seq_1376	ku pa pa ka	Grain Father Father Person
+seq_1377	ku ka ka	Grain person person
+seq_1378	ta na dh	Three water hold
+seq_1379	ga sa la	Great stand small
+seq_1380	ba ta pa ja	Good Three Father Come
+seq_1381	pa na la	Father water small
+seq_1382	sa ka ra la	Stand Person King Small
+seq_1383	pa bh ja ku pa	Father Be Come Grain Father
+seq_1384	bh ta pa ta	Be Three Father Three
+seq_1385	ha pa ba	Land father good
+seq_1386	na la ba	Water small good
+seq_1387	ka ku ch	Person grain cut
+seq_1388	na na ma	Water water mother
+seq_1389	ha pa ka ma	Land Father Person Mother
+seq_1390	na na pa la ta	Water Water Father Small Three
+seq_1391	ku na la	Grain water small
+seq_1392	ta sa nan	Three stand nan
+seq_1393	la gh gh na	Small House House Water
+seq_1394	la mu ka pa sa	Small Mouth Person Father Stand
+seq_1395	dh sa gh na	Hold Stand House Water
+seq_1396	na ka pu	Water person pure
+seq_1397	ba ta na pa	Good Three Water Father
+seq_1398	na na bh	Water water be
+seq_1399	pa la na pa	Father Small Water Father
+seq_1400	pa si sa ha na	Father Sit Stand Land Water
+seq_1401	ta ta ka	Three three person
+seq_1402	la nan pa g	Small Nan Father Cow
+seq_1403	dh bh ka ta	Hold Be Person Three
+seq_1404	na nan nan	Water nan nan
+seq_1405	ta ha ka	Three land person
+seq_1406	la sa na	Small stand water
+seq_1407	ma pa ku	Mother father grain
+seq_1408	ku ka nan	Grain person nan
+seq_1409	na ba pa la bh pa ga pa	Water Good Father Small Be Father Great Father
+seq_1410	ma nan na	Mother nan water
+seq_1411	la ga ka	Small great person
+seq_1412	la la bh	Small small be
+seq_1413	ta ma ta	Three mother three
+seq_1414	sa la dh	The stand small hold
+seq_1415	ba ta ta	Good three three
+seq_1416	la pa bh sa ba	Small Father Be Stand Good
+seq_1417	na ka ka pa sa	Water Person Person Father Stand
+seq_1418	la g ka ma ka	Small Cow Person Mother Person
+seq_1419	ba ta pa ba	Good Three Father Good
+seq_1420	dh ma na na ka	Hold Mother Water Water Person
+seq_1421	pa na si ra	Father Water Sit King
+seq_1422	la ku la	Small grain small
+seq_1423	pa ka ku ba	Father Person Grain Good
+seq_1424	bh ma pa ha	Be Mother Father Land
+seq_1425	ma ma na na bh	Mother Mother Water Water Be
+seq_1426	pa ku ku dh	Father Grain Grain Hold
+seq_1427	ka bh na	Person be water
+seq_1428	nan ra ma da sa	Nan King Mother Do Stand
+seq_1429	sa ba sa ka	Stand Good Stand Person
+seq_1430	ka la la	Person small small
+seq_1431	pa la ka	Father small person
+seq_1432	da sh ka	Do shine person
+seq_1433	la na ma na	Small Water Mother Water
+seq_1434	bh ra ka pa	Be King Person Father
+seq_1435	ka na ku	Person water grain
+seq_1436	ba na nan	Good water nan
+seq_1437	na sa na	The water of stand water
+seq_1438	na la da	Water small do
+seq_1439	bh ku sa ta	Be Grain Stand Three
+seq_1440	na ba ma ta ta	Water Good Mother Three Three
+seq_1441	ha gh na ku la ra	Land House Water Grain Small King
+seq_1442	g ta pa ma	Cow Three Father Mother
+seq_1443	ma sh ja ta pa sa	Mother Shine Come Three Father Stand
+seq_1444	la da dh pa	Small Do Hold Father
+seq_1445	pa re sh	Father flow shine
+seq_1446	la ku sa ga	Small Grain Stand Great
+seq_1447	na la na la	Water Small Water Small
+seq_1448	pa na na	Father water water
+seq_1449	bh pa ta	Be father three
+seq_1450	nan nan pa ra gh	Nan Nan Father King House
+seq_1451	dh ra ka	Hold king person
+seq_1452	na nan na	Water nan water
+seq_1453	ta ka ku dh ku	Three Person Grain Hold Grain
+seq_1454	ku na ga an	Grain Water Great At
+seq_1455	ka ja nan la	Person Come Nan Small
+seq_1456	pa ha na	Father land water
+seq_1457	dh pa pa ta	Hold Father Father Three
+seq_1458	ku ra ta	Grain king three
+seq_1459	pu ma ma mu	Pure Mother Mother Mouth
+seq_1460	ma ka mu na	Mother Person Mouth Water
+seq_1461	ma pa ra	Mother father king
+seq_1462	ba ta nan	Good three nan
+seq_1463	ka ta pa	Person three father
+seq_1464	sa sa sa na	Stand Stand Stand Water
+seq_1465	mu ra pa ma	Mouth King Father Mother
+seq_1466	pa sa la ka na	Father Stand Small Person Water
+seq_1467	ra na si ka	King Water Sit Person
+seq_1468	ka sa ta ba na	Person Stand Three Good Water
+seq_1469	ka ba la ma	Person Good Small Mother
+seq_1470	g ka ta ka	Cow Person Three Person
+seq_1471	pa ka bh ka dh sa	Father Person Be Person Hold Stand
+seq_1472	dh na ja ba	Hold Water Come Good
+seq_1473	ka na na	Person water water
+seq_1474	na ta pa sa ba ka pa ra	Water Three Father Stand Good Person Father King
+seq_1475	sa la ku	The stand small grain
+seq_1476	ma sa pr	The mother of stand before
+seq_1477	ta ma bh nan la	Three Mother Be Nan Small
+seq_1478	ma pa na ch	Mother Father Water Cut
+seq_1479	na ta pa sa ku	Water Three Father Stand Grain
+seq_1480	ra na pa ka ta	King Water Father Person Three
+seq_1481	ku la la ta ka	Grain Small Small Three Person
+seq_1482	la dh ka la sa la re	Small Hold Person Small Stand Small Flow
+seq_1483	na dh ku	Water hold grain
+seq_1484	mu ku pa la	Mouth Grain Father Small
+seq_1485	ha nan ta	Land nan three
+seq_1486	ch ha pr na pa	Cut Land Before Water Father
+seq_1487	ma mu ra ch	Mother Mouth King Cut
+seq_1488	ra ka ra	King person king
+seq_1489	pa pa si pa ka	Father Father Sit Father Person
+seq_1490	nan si pa	Nan sit father
+seq_1491	ch ka ka	Cut person person
+seq_1492	la pa mu	Small father mouth
+seq_1493	pa sa nan ch ka sa nan na	Father Stand Nan Cut Person Stand Nan Water
+seq_1494	na ma na ta	Water Mother Water Three
+seq_1495	ka dh ta ha pa ma sa nan	Person Hold Three Land Father Mother Stand Nan
+seq_1496	pa ra ka	Father king person
+seq_1497	ja ma ma ta sa	Come Mother Mother Three Stand
+seq_1498	sa ch ka	The stand cut person
+seq_1499	nan ba ch	Nan good cut
+seq_1500	pa ma na	Father mother water
+seq_1501	ra ga sh gh	King Great Shine House
+seq_1502	ja g ta	Come cow three
+seq_1503	sa ta nan pa	Stand Three Nan Father
+seq_1504	pu na ja	Pure water come
+seq_1505	pa ch pa	Father cut father
+seq_1506	ja sa ta	Come stand three
+seq_1507	na pa ch dh	Water Father Cut Hold
+seq_1508	ja na la	Come water small
+seq_1509	pa ja ta	Father come three
+seq_1510	ta na sa ku	Three Water Stand Grain
+seq_1511	na la bh	Water small be
+seq_1512	ta sa la	Three stand small
+seq_1513	na ra g	Water king cow
+seq_1514	ta sh pa	Three shine father
+seq_1515	pa ta ha pa nan ra	Father Three Land Father Nan King
+seq_1516	ga pa na la pa	Great Father Water Small Father
+seq_1517	pa bh pa gh	Father Be Father House
+seq_1518	dh na pa ra pa	Hold Water Father King Father
+seq_1519	ra gh pa pa	King House Father Father
+seq_1520	na la ku pa	Water Small Grain Father
+seq_1521	nan ta la	Nan three small
+seq_1522	gh ba ka la	House Good Person Small
+seq_1523	sa ka pa ku ra na	Stand Person Father Grain King Water
+seq_1524	ba ch gh	Good cut house
+seq_1525	pa sa na pa ma ga	Father Stand Water Father Mother Great
+seq_1526	bh ba la la	Be Good Small Small
+seq_1527	sa pa ta ka na	Stand Father Three Person Water
+seq_1528	na la ra na sa ka sa ka	Water Small King Water Stand Person Stand Person
+seq_1529	sa pa ta la	Stand Father Three Small
+seq_1530	nan ta na	Nan three water
+seq_1531	sa sa na	The stand stand water
+seq_1532	na ja ka la ma	Water Come Person Small Mother
+seq_1533	ka ch na	Person cut water
+seq_1534	la la pa ch na	Small Small Father Cut Water
+seq_1535	na ra ma sa	Water King Mother Stand
+seq_1536	pa dh gh ka la ka	Father Hold House Person Small Person
+seq_1537	pa na la na ha	Father Water Small Water Land
+seq_1538	an pa pa	At father father
+seq_1539	un na la	Up water small
+seq_1540	pa na dh ma na	Father Water Hold Mother Water
+seq_1541	si nan pa ta	Sit Nan Father Three
+seq_1542	ra bh si ka ka	King Be Sit Person Person
+seq_1543	la ku sa ga ma dh	Small Grain Stand Great Mother Hold
+seq_1544	bh pa la	Be father small
+seq_1545	ch na la	Cut water small
+seq_1546	da ra pa	Do king father
+seq_1547	la na la pa pa	Small Water Small Father Father
+seq_1548	ha ka pa	Land person father
+seq_1549	da dh ta gh ta sa	Do Hold Three House Three Stand
+seq_1550	dh ma ka ta	Hold Mother Person Three
+seq_1551	na ta ka	Water three person
+seq_1552	ma na ha ra	Mother Water Land King
+seq_1553	pa pa si	Father father sit
+seq_1554	ta pa la ra	Three Father Small King
+seq_1555	pa pa la pa	Father Father Small Father
+seq_1556	na ku ch ma	Water Grain Cut Mother
+seq_1557	la ka dh	Small person hold
+seq_1558	la ka ba	Small person good
+seq_1559	mu ba mu pa ta	Mouth Good Mouth Father Three
+seq_1560	ha na na	Land water water
+seq_1561	nan la ma	Nan small mother
+seq_1562	na na sa ka ka ra nan	Water Water Stand Person Person King Nan
+seq_1563	ma na ha la	Mother Water Land Small
+seq_1564	ta sa la	Three stand small
+seq_1565	ch pa pa	Cut father father
+seq_1566	na sa bh	The water of stand be
+seq_1567	la sa mu	Small stand mouth
+seq_1568	pa ra pa	Father king father
+seq_1569	na nan pa	Water water father
+seq_1570	ka ta sa	Person three stand
+seq_1571	ka na ka pa ka	Person Water Person Father Person
+seq_1572	la g nan ka	Small Cow Nan Person
+seq_1573	ku pa ta la ma	Grain Father Three Small Mother
+seq_1574	ga pa ba ku	Great Father Good Grain
+seq_1575	ku na pa mu mu dh ta	Grain Water Father Mouth Mouth Hold Three
+seq_1576	ra ta la ka sa mu	King Three Small Person Stand Mouth
+seq_1577	mu na na	Mouth water water
+seq_1578	mu ku ma ra	Mouth Grain Mother King
+seq_1579	la la ba pa	Small Small Good Father
+seq_1580	ku ra ra	Grain king king
+seq_1581	na sa pa na	Water Stand Father Water
+seq_1582	ta pa sa la	Three Father Stand Small
+seq_1583	ja sa pa	Come stand father
+seq_1584	dh sa ka ta pa	Hold Stand Person Three Father
+seq_1585	ku na ta	Grain water three
+seq_1586	mu ba la ma	Mouth Good Small Mother
+seq_1587	sa pa an	The stand father at
+seq_1588	ta pa la ch	Three Father Small Cut
+seq_1589	pa ma sa la	Father Mother Stand Small
+seq_1590	g dh ta pa	Cow Hold Three Father
+seq_1591	dh ch pa ra ka	Hold Cut Father King Person
+seq_1592	na ja dh na	Water Come Hold Water
+seq_1593	sa sa ba ta ta	Stand Stand Good Three Three
+seq_1594	ka ja ta	Person come three
+seq_1595	ch ka bh	Cut person be
+seq_1596	ka ta kh	Person three sky
+seq_1597	la dh ka la	Small Hold Person Small
+seq_1598	dh pu ta	Hold pure three
+seq_1599	pa ka ka na	Father Person Person Water
+seq_1600	na na sa sa	Water Water Stand Stand
+seq_1601	ra sa na	The king of stand water
+seq_1602	pa gh ku ba ka ka ra	Father House Grain Good Person Person King
+seq_1603	pu pa pa ta	Pure Father Father Three
+seq_1604	na dh pa	Water hold father
+seq_1605	ha ta pa	Land three father
+seq_1606	pa bh ka ka	Father Be Person Person
+seq_1607	na pa bh sa pa	Water Father Be Stand Father
+seq_1608	gh sh na	House shine water
+seq_1609	na bh ja ra sa ch	Water Be Come King Stand Cut
+seq_1610	bh ta sa ha	Be Three Stand Land
+seq_1611	sa la na dh	Stand Small Water Hold
+seq_1612	la ka la ra	Small Person Small King
+seq_1613	la nan ka ba	Small Nan Person Good
+seq_1614	ka ra la	Person king small
+seq_1615	ku ka ta	Grain person three
+seq_1616	na na mu	Water water mouth
+seq_1617	ku ba da ma	Grain Good Do Mother
+seq_1618	pa ma ha na pa	Father Mother Land Water Father
+seq_1619	ra gh dh bh	King House Hold Be
+seq_1620	pa na pa	Father water father
+seq_1621	sa sa sa	The stand stand stand
+seq_1622	sa ga sa na	Stand Great Stand Water
+seq_1623	gh pa ka	House father person
+seq_1624	ga pa na sa	Great Father Water Stand
+seq_1625	ku pa na ku	Grain Father Water Grain
+seq_1626	ha mu ja la ku	Land Mouth Come Small Grain
+seq_1627	ba pr ma	Good before mother
+seq_1628	ja ta sa	Come three stand
+seq_1629	pa pa pa sa	Father Father Father Stand
+seq_1630	sa na la pa nan ba	Stand Water Small Father Nan Good
+seq_1631	an ra bh ha	At King Be Land
+seq_1632	bh ma na	Be mother water
+seq_1633	pa mu la sa	Father Mouth Small Stand
+seq_1634	pa ka gh	Father person house
+seq_1635	ra sa ta ku	King Stand Three Grain
+seq_1636	ra ta ma gh gh	King Three Mother House House
+seq_1637	la pa la	Small father small
+seq_1638	na la na	Water small water
+seq_1639	ch pa ra ka	Cut Father King Person
+seq_1640	ga dh ra pa	Great Hold King Father
+seq_1641	pu ka sa dh	Pure Person Stand Hold
+seq_1642	ha la ja	Land small come
+seq_1643	ba ka mu	Good person mouth
+seq_1644	la ka na	Small person water
+seq_1645	bh pa na	Be father water
+seq_1646	dh ma sa	Hold mother stand
+seq_1647	ja dh ha la	Come Hold Land Small
+seq_1648	nan re ba dh	Nan Flow Good Hold
+seq_1649	pu ka la	Pure person small
+seq_1650	la ma ra ja ka na ta ka	Small Mother King Come Person Water Three Person
+seq_1651	nan ma la la ba	Nan Mother Small Small Good
+seq_1652	ka ka ta	Person person three
+seq_1653	la dh sa ka na	Small Hold Stand Person Water
+seq_1654	na dh ra	Water hold king
+seq_1655	ka na na na mu ka un	Person Water Water Water Mouth Person Up
+seq_1656	na bh ka la	Water Be Person Small
+seq_1657	ga pr la	Great before small
+seq_1658	ta da gh ka ra ra ma	Three Do House Person King King Mother
+seq_1659	ma gh ta	Mother house three
+seq_1660	la na ba	Small water good
+seq_1661	ta la da	Three small do
+seq_1662	la ka ku ra	Small Person Grain King
+seq_1663	ku na ta	Grain water three
+seq_1664	pa nan pa la gh	Father Nan Father Small House
+seq_1665	ta na ch	Three water cut
+seq_1666	la mu na ka	Small Mouth Water Person
+seq_1667	ch na pa	Cut water father
+seq_1668	ka ta ma	Person three mother
+seq_1669	na na ma la la	Water Water Mother Small Small
+seq_1670	ra sa la	The king of stand small
+seq_1671	bh pa ra la	Be Father King Small
+seq_1672	la ta ta ba ra	Small Three Three Good King
+seq_1673	ga ra ku	Great king grain
+seq_1674	na pa bh	Water father be
+seq_1675	ma ha ha pa	Mother Land Land Father
+seq_1676	pa ka pa ha	Father Person Father Land
+seq_1677	dh ta ra la	Hold Three King Small
+seq_1678	ka ba la sa ta ku	Person Good Small Stand Three Grain
+seq_1679	la ha pa ja ra	Small Land Father Come King
+seq_1680	la la na	Small small water
+seq_1681	pa nan ta ku ch	Father Nan Three Grain Cut
+seq_1682	ta ma ku ta	Three Mother Grain Three
+seq_1683	re ka ma ka na ka ta na	Flow Person Mother Person Water Person Three Water
+seq_1684	dh bh pa sa	Hold Be Father Stand
+seq_1685	ta sa ka ta la	Three Stand Person Three Small
+seq_1686	sa la ra sa la	Stand Small King Stand Small
+seq_1687	na ba ma	Water good mother
+seq_1688	an ka la	At person small
+seq_1689	ra dh pa pa	King Hold Father Father
+seq_1690	ta na ka	Three water person
+seq_1691	ga ka ta	Great person three
+seq_1692	ga ma pa ba	Great Mother Father Good
+seq_1693	ra ra ka	King king person
+seq_1694	la sa gh	Small stand house
+seq_1695	re sa ra	Flow stand king
+seq_1696	an pa ku	At father grain
+seq_1697	ch sa na nan	Cut Stand Water Nan
+seq_1698	pa gh ma la	Father House Mother Small
+seq_1699	la ta ta ku pa bh	Small Three Three Grain Father Be
+seq_1700	pa sa la ch ra	Father Stand Small Cut King
+seq_1701	pa bh pa	Father be father
+seq_1702	da g la mu	Do Cow Small Mouth
+seq_1703	pa bh pa na	Father Be Father Water
+seq_1704	ku nan ra	Grain nan king
+seq_1705	ra kh ta mu da ra na	King Sky Three Mouth Do King Water
+seq_1706	bh la ma	Be small mother
+seq_1707	ku ra ka ma bh	Grain King Person Mother Be
+seq_1708	na ku mu	Water grain mouth
+seq_1709	ra pa ta ka	King Father Three Person
+seq_1710	gh nan gh	House nan house
+seq_1711	mu ba na pa	Mouth Good Water Father
+seq_1712	sa sa ha	The stand stand land
+seq_1713	ch un g na na	Cut Up Cow Water Water
+seq_1714	ta ku ka la ra na	Three Grain Person Small King Water
+seq_1715	pa bh ka sa ra	Father Be Person Stand King
+seq_1716	na pa pa	Water father father
+seq_1717	ma gh na	Mother house water
+seq_1718	ra ba sa	King good stand
+seq_1719	pa ra ma	Father king mother
+seq_1720	ba si ch	Good sit cut
+seq_1721	na ma ra ta	Water Mother King Three
+seq_1722	sa un ta dh	Stand Up Three Hold
+seq_1723	ku na pa	Grain water father
+seq_1724	la ba ra	Small good king
+seq_1725	bh pa la sa mu	Be Father Small Stand Mouth
+seq_1726	ka na g	Person water cow
+seq_1727	ta pa pa	Three father father
+seq_1728	da pa ka	Do father person
+seq_1729	na la la dh	Water Small Small Hold
+seq_1730	la na ta	Small water three
+seq_1731	na ta ka	Water three person
+seq_1732	la la pa la kh	Small Small Father Small Sky
+seq_1733	ha ku ha	Land grain land
+seq_1734	g sa si ga	Cow Stand Sit Great
+seq_1735	ra ma pa ku	King Mother Father Grain
+seq_1736	ta ka na la na	Three Person Water Small Water
+seq_1737	ga ta ka	Great three person
+seq_1738	un ch bh	Up cut be
+seq_1739	ku ku ha ma ch	Grain Grain Land Mother Cut
+seq_1740	la na la	Small water small
+seq_1741	ta pa pr ma ga gh	Three Father Before Mother Great House
+seq_1742	ka ma pa pa sa	Person Mother Father Father Stand
+seq_1743	gh ka pa	House person father
+seq_1744	pa ku ga ta	Father Grain Great Three
+seq_1745	pa na pa	Father water father
+seq_1746	nan ta na dh ta	Nan Three Water Hold Three
+seq_1747	pa da la	Father do small
+seq_1748	ma na ha	Mother water land
+seq_1749	pa pa ka ra	Father Father Person King
+seq_1750	ch ma ba	Cut mother good
+seq_1751	pa ta ch ma	Father Three Cut Mother
+seq_1752	ba ta na ta	Good Three Water Three
+seq_1753	la da dh pa na	Small Do Hold Father Water
+seq_1754	na ka ka	Water person person
+seq_1755	mu la la	Mouth small small
+seq_1756	sa ba pa na	Stand Good Father Water
+seq_1757	sa ma ku	The stand mother grain
+seq_1758	nan sa ta pa	Nan Stand Three Father
+seq_1759	da ha dh	Do land hold
+seq_1760	ta dh ka	Three hold person
+seq_1761	ga pa na si	Great Father Water Sit
+seq_1762	pa ta pa ku	Father Three Father Grain
+seq_1763	si pa nan bh	Sit Father Nan Be
+seq_1764	ka pa nan ka	Person Father Nan Person
+seq_1765	sa nan na sa	Stand Nan Water Stand
+seq_1766	sa pa ra na mu	Stand Father King Water Mouth
+seq_1767	ba pa pa ta	Good Father Father Three
+seq_1768	ba dh gh	Good hold house
+seq_1769	bh nan sa	Be nan stand
+seq_1770	ch mu ba	Cut mouth good
+seq_1771	la ma ma	Small mother mother
+seq_1772	na ma ta sh sh	Water Mother Three Shine Shine
+seq_1773	ra ka ra	King person king
+seq_1774	la bh na ta	Small Be Water Three
+seq_1775	un ch sa	Up cut stand
+seq_1776	sa la ka	The stand small person
+seq_1777	ta ch la dh ka sa	Three Cut Small Hold Person Stand
+seq_1778	da ja la	Do come small
+seq_1779	pa pa ku un	Father Father Grain Up
+seq_1780	dh ra pa nan	Hold King Father Nan
+seq_1781	pa mu ra	Father mouth king
+seq_1782	ka na ku	Person water grain
+seq_1783	ta ka pa ta	Three Person Father Three
+seq_1784	ku ba ra la sa pa la	Grain Good King Small Stand Father Small
+seq_1785	dh ku pa ch na	Hold Grain Father Cut Water
+seq_1786	ka ka pa	Person person father
+seq_1787	pa na na	Father water water
+seq_1788	nan ba ha la	Nan Good Land Small
+seq_1789	gh la na ba	House Small Water Good
+seq_1790	ta na ma	Three water mother
+seq_1791	sa na pa sa ku ta	Stand Water Father Stand Grain Three
+seq_1792	ch ma ma ma	Cut Mother Mother Mother
+seq_1793	pa ka ka sa pa	Father Person Person Stand Father
+seq_1794	ma pa ta	Mother father three
+seq_1795	na ta ba ma nan	Water Three Good Mother Nan
+seq_1796	ga na ch la na	Great Water Cut Small Water
+seq_1797	bh ra la sa sa	Be King Small Stand Stand
+seq_1798	na pa ch ka pa	Water Father Cut Person Father
+seq_1799	la la ka ka nan	Small Small Person Person Nan
+seq_1800	ga ba la ka pa la	Great Good Small Person Father Small
+seq_1801	pa pa na ta	Father Father Water Three
+seq_1802	sa ka sa ka	Stand Person Stand Person
+seq_1803	ma ma ch pa	Mother Mother Cut Father
+seq_1804	ja la ka ka	Come Small Person Person
+seq_1805	ma ha ba ma	Mother Land Good Mother
+seq_1806	la ra ku ja na	Small King Grain Come Water
+seq_1807	pa ka ch ch ra	Father Person Cut Cut King
+seq_1808	ch nan ga an un sa	Cut Nan Great At Up Stand
+seq_1809	dh ta na pa	Hold Three Water Father
+seq_1810	ta ba ka	Three good person
+seq_1811	ku sa la pa	Grain Stand Small Father
+seq_1812	ra ka ku	King person grain
+seq_1813	ka ka na nan	Person Person Water Nan
+seq_1814	na pa nan	Water father nan
+seq_1815	pa na gh	Father water house
+seq_1816	pa dh na	Father hold water
+seq_1817	pa nan la	Father nan small
+seq_1818	ga nan ka na	Great Nan Person Water
+seq_1819	dh na ka	Hold water person
+seq_1820	ma ku ma	Mother grain mother
+seq_1821	ka da ma	Person do mother
+seq_1822	ja ch ku pa ta sa	Come Cut Grain Father Three Stand
+seq_1823	ma ba mu ma	Mother Good Mouth Mother
+seq_1824	ch la ka	Cut small person
+seq_1825	la la ku	Small small grain
+seq_1826	na gh gh ha nan	Water House House Land Nan
+seq_1827	sa na sa	The stand water stand
+seq_1828	ch gh ma	Cut house mother
+seq_1829	ku ja ku dh ka ta	Grain Come Grain Hold Person Three
+seq_1830	ta pa sa mu	Three Father Stand Mouth
+seq_1831	dh ma mu	Hold mother mouth
+seq_1832	ra nan na ra	King Nan Water King
+seq_1833	ra ku ku	King grain grain
+seq_1834	na pa nan	Water father nan
+seq_1835	ta nan na na	Three Nan Water Water
+seq_1836	ma ku sa	Mother grain stand
+seq_1837	ha ta ba	Land three good
+seq_1838	ja ha ma	Come land mother
+seq_1839	pa ba ta na ta	Father Good Three Water Three
+seq_1840	ta sa ka	Three stand person
+seq_1841	pa ka da	Father person do
+seq_1842	pa gh pa sa ku	Father House Father Stand Grain
+seq_1843	ra ja la la	King Come Small Small
+seq_1844	ku ka pa	Grain person father
+seq_1845	ku ch sa pa	Grain Cut Stand Father
+seq_1846	pa na ma	Father water mother
+seq_1847	na pa ka ra	Water Father Person King
+seq_1848	ba ta pa	Good three father
+seq_1849	ch pa ka	Cut father person
+seq_1850	la sh g ta	Small Shine Cow Three
+seq_1851	ma ba ta	Mother good three
+seq_1852	ha bh ha	Land be land
+seq_1853	sa ma ba ma	Stand Mother Good Mother
+seq_1854	la na pa	Small water father
+seq_1855	ka na si pa sa	Person Water Sit Father Stand
+seq_1856	la ba kh da	Small Good Sky Do
+seq_1857	pa ha ta	Father land three
+seq_1858	pa ma dh	Father mother hold
+seq_1859	sa ha la	The stand land small
+seq_1860	na pa ku dh na	Water Father Grain Hold Water
+seq_1861	la pa pa	Small father father
+seq_1862	ma kh la ka ka la	Mother Sky Small Person Person Small
+seq_1863	sa sa ka	The stand stand person
+seq_1864	ku ma ku	Grain mother grain
+seq_1865	ha pa sa la ta	Land Father Stand Small Three
+seq_1866	ja kh la ra	Come Sky Small King
+seq_1867	na ka sa	Water person stand
+seq_1868	la na pa	Small water father
+seq_1869	pa ku na pa	Father Grain Water Father
+seq_1870	sa na na sa la	Stand Water Water Stand Small
+seq_1871	ku nan ma sa	Grain Nan Mother Stand
+seq_1872	ma la da	Mother small do
+seq_1873	sa ra na nan ma gh	Stand King Water Nan Mother House
+seq_1874	ra ta mu dh si	King Three Mouth Hold Sit
+seq_1875	ku mu pa	Grain mouth father
+seq_1876	pa ch sa pa ta	Father Cut Stand Father Three
+seq_1877	an ta la	At three small
+seq_1878	pa ga pa	Father great father
+seq_1879	pa la ta	Father small three
+seq_1880	g gh ta pa ma	Cow House Three Father Mother
+seq_1881	ka dh na sa bh	Person Hold Water Stand Be
+seq_1882	na ka ba	Water person good
+seq_1883	ja ka ma pa	Come Person Mother Father
+seq_1884	ka ku ba	Person grain good
+seq_1885	ka na sa	Person water stand
+seq_1886	ta re ta ch	Three Flow Three Cut
+seq_1887	ta ba mu	Three good mouth
+seq_1888	ta na ch na	Three Water Cut Water
+seq_1889	ta bh pa	Three be father
+seq_1890	la ku ma	Small grain mother
+seq_1891	ta mu ku na	Three Mouth Grain Water
+seq_1892	pa ka ha dh la	Father Person Land Hold Small
+seq_1893	na ma ka ja ch pa	Water Mother Person Come Cut Father
+seq_1894	ta dh pa	Three hold father
+seq_1895	ku pa dh dh bh	Grain Father Hold Hold Be
+seq_1896	sa ga nan	The stand great nan
+seq_1897	nan mu na	Nan mouth water
+seq_1898	sa la na	The stand small water
+seq_1899	pa nan ku	Father nan grain
+seq_1900	da pa ku ma pa	Do Father Grain Mother Father
+seq_1901	ch la ga	Cut small great
+seq_1902	bh la nan ka na	Be Small Nan Person Water
+seq_1903	ku ra ra	Grain king king
+seq_1904	ka pa ku da dh ta	Person Father Grain Do Hold Three
+seq_1905	ma ga ra	Mother great king
+seq_1906	sa ma ba la	Stand Mother Good Small
+seq_1907	na ma ta	Water mother three
+seq_1908	sa ma ta	The stand mother three
+seq_1909	la si na na	Small Sit Water Water
+seq_1910	ja pa ga	Come father great
+seq_1911	sa ka ka ha	Stand Person Person Land
+seq_1912	pa ba sa nan pa	Father Good Stand Nan Father
+seq_1913	ta na pa	Three water father
+seq_1914	ta pa sa la pa	Three Father Stand Small Father
+seq_1915	ma nan ra ka mu	Mother Nan King Person Mouth
+seq_1916	ta ta ka ma dh	Three Three Person Mother Hold
+seq_1917	ta pa nan	Three father nan
+seq_1918	ka ta ka sa	Person Three Person Stand
+seq_1919	pa na ku	Father water grain
+seq_1920	ka nan sa	Person nan stand
+seq_1921	ch ba ka ba la	Cut Good Person Good Small
+seq_1922	da ja pa	Do come father
+seq_1923	dh ma ka ka	Hold Mother Person Person
+seq_1924	la ra ta	Small king three
+seq_1925	ta ka pa	Three person father
+seq_1926	ka ja ra	Person come king
+seq_1927	gh nan sa	House nan stand
+seq_1928	ja na ra pu	Come Water King Pure
+seq_1929	ra ka na na	King Person Water Water
+seq_1930	la pa pa ch	Small Father Father Cut
+seq_1931	dh ba na ra	Hold Good Water King
+seq_1932	ka sa ka gh ta	Person Stand Person House Three
+seq_1933	ka ka ra	Person person king
+seq_1934	ja la na pa ka ka ra na	Come Small Water Father Person Person King Water
+seq_1935	sa la la la la	Stand Small Small Small Small
+seq_1936	bh ra pa ra	Be King Father King
+seq_1937	na ga pa ra	Water Great Father King
+seq_1938	gh sa pa	House stand father
+seq_1939	sa na ma	The stand water mother
+seq_1940	na ma nan	Water mother nan
+seq_1941	ch ku ra	Cut grain king
+seq_1942	ta sa pa	Three stand father
+seq_1943	ra da ta ra	King Do Three King
+seq_1944	gh nan pa	House nan father
+seq_1945	pa la pa pr ga	Father Small Father Before Great
+seq_1946	ka sa nan	Person stand nan
+seq_1947	ch ku la ta sa	Cut Grain Small Three Stand
+seq_1948	sa na nan na	Stand Water Nan Water
+seq_1949	la ba na pa	Small Good Water Father
+seq_1950	la na ta ba	Small Water Three Good
+seq_1951	ch nan sa	Cut nan stand
+seq_1952	ka na pa ta	Person Water Father Three
+seq_1953	ta pa pa sa ma	Three Father Father Stand Mother
+seq_1954	ch ka ba ha	Cut Person Good Land
+seq_1955	ka na la la	Person Water Small Small
+seq_1956	pa ta ka pa	Father Three Person Father
+seq_1957	la na pa	Small water father
+seq_1958	na na ma pa	Water Water Mother Father
+seq_1959	pa ku g	Father grain cow
+seq_1960	pa ma ra pu	Father Mother King Pure
+seq_1961	pa an ka na ra ga ch	Father At Person Water King Great Cut
+seq_1962	sa dh pa	The stand hold father
+seq_1963	la ka da	Small person do
+seq_1964	ka la nan	Person small nan
+seq_1965	pa pa ha	Father father land
+seq_1966	na ku pa dh na	Water Grain Father Hold Water
+seq_1967	pa la ba	Father small good
+seq_1968	dh na sa ka pa	Hold Water Stand Person Father
+seq_1969	ba pa ka	Good father person
+seq_1970	na ka ka ta	Water Person Person Three
+seq_1971	pa sa ta	The father of stand three
+seq_1972	na ha pa	Water land father
+seq_1973	ku pa pa	Grain father father
+seq_1974	ma ra an ra pa	Mother King At King Father
+seq_1975	ku ka pa	Grain person father
+seq_1976	pa la nan	Father small nan
+seq_1977	gh ka sa	House person stand
+seq_1978	g nan na pa ka na	Cow Nan Water Father Person Water
+seq_1979	ta gh pa	Three house father
+seq_1980	ka ra ta ba	Person King Three Good
+seq_1981	pa sa pa	The father of stand father
+seq_1982	sa sa ra ka ta	Stand Stand King Person Three
+seq_1983	gh bh ta ta	House Be Three Three
+seq_1984	ma ch ha	Mother cut land
+seq_1985	ma ka ch	Mother person cut
+seq_1986	ja pa pa nan sa	Come Father Father Nan Stand
+seq_1987	sa ra pa gh ja	Stand King Father House Come
+seq_1988	ku pa ra na	Grain Father King Water
+seq_1989	la sa gh dh ka	Small Stand House Hold Person
+seq_1990	nan ka gh ku bh g pa ku	Nan Person House Grain Be Cow Father Grain
+seq_1991	ga sa ma ra	Great Stand Mother King
+seq_1992	ra nan gh	King nan house
+seq_1993	pa nan ka mu	Father Nan Person Mouth
+seq_1994	la ta ma	Small three mother
+seq_1995	nan pa ra gh ta	Nan Father King House Three
+seq_1996	ra pa ra la pa la pa	King Father King Small Father Small Father
+seq_1997	ta ha pa ka sa	Three Land Father Person Stand
+seq_1998	sa ra ja	The stand king come
+seq_1999	ka ta ka	Person three person
+seq_2000	ra ch na	King cut water
+seq_2001	sa na ra	The stand water king
+seq_2002	g bh la ta	Cow Be Small Three
+seq_2003	ka na na	Person water water
+seq_2004	la na ba na	Small Water Good Water
+seq_2005	ha ma ka	Land mother person
+seq_2006	ta ba na ba	Three Good Water Good
+seq_2007	pa la da	Father small do
+seq_2008	la ka sa ma	Small Person Stand Mother
+seq_2009	na ra ma sa	Water King Mother Stand
+seq_2010	nan ba nan	Nan good nan
+seq_2011	ku na ka pa na	Grain Water Person Father Water
+seq_2012	pa pa ta nan pa	Father Father Three Nan Father
+seq_2013	ra sa ka ma	King Stand Person Mother
+seq_2014	ba ra mu pa nan mu	Good King Mouth Father Nan Mouth
+seq_2015	ta dh ka ra ka ka ha na	Three Hold Person King Person Person Land Water
+seq_2016	la gh ta	Small house three
+seq_2017	ma g la	Mother cow small
+seq_2018	na ma ba pa ka	Water Mother Good Father Person
+seq_2019	g sa ku	Cow stand grain
+seq_2020	ra ta ta ra	King Three Three King
+seq_2021	ra ba ku	King good grain
+seq_2022	ka dh na na la	Person Hold Water Water Small
+seq_2023	ch pa la	Cut father small
+seq_2024	ka na ta gh	Person Water Three House
+seq_2025	na ra na ra	Water King Water King
+seq_2026	ka ta ja ku	Person Three Come Grain
+seq_2027	ra ka pa	King person father
+seq_2028	ta ka ma	Three person mother
+seq_2029	ch ch ku	Cut cut grain
+seq_2030	ra pa sa	King father stand
+seq_2031	bh na bh	Be water be
+seq_2032	ka na sa ch	Person Water Stand Cut
+seq_2033	na pa pa na pa na pa na	Water Father Father Water Father Water Father Water
+seq_2034	ma ra ta	Mother king three
+seq_2035	na ka na	Water person water
+seq_2036	ka gh ku ch	Person House Grain Cut
+seq_2037	pa ra na	Father king water
+seq_2038	ku ra pa pa	Grain King Father Father
+seq_2039	la ra pa	Small king father
+seq_2040	na ta na la dh na	Water Three Water Small Hold Water
+seq_2041	dh ba sa	Hold good stand
+seq_2042	ka ka la ku	Person Person Small Grain
+seq_2043	la mu ta sa ka	Small Mouth Three Stand Person
+seq_2044	na la ma g na	Water Small Mother Cow Water
+seq_2045	sa ka ba dh	Stand Person Good Hold
+seq_2046	la ku ha	Small grain land
+seq_2047	ha ta la si	Land Three Small Sit
+seq_2048	gh la pa	House small father
+seq_2049	an dh la la ta ka	At Hold Small Small Three Person
+seq_2050	pa mu nan	Father mouth nan
+seq_2051	la ta sa ka	Small Three Stand Person
+seq_2052	ta da ga	Three do great
+seq_2053	ka ta na	Person three water
+seq_2054	la na nan	Small water nan
+seq_2055	na sa na	The water of stand water
+seq_2056	ku sa ba bh gh	Grain Stand Good Be House
+seq_2057	na na sa la	Water Water Stand Small
+seq_2058	la na ta	Small water three
+seq_2059	nan pr sa	Nan before stand
+seq_2060	ta la ba	Three small good
+seq_2061	na sh ja	Water shine come
+seq_2062	pa bh pa ta la ra ma	Father Be Father Three Small King Mother
+seq_2063	si ta ka ba	Sit Three Person Good
+seq_2064	pa la ta nan na	Father Small Three Nan Water
+seq_2065	ra ba ma	King good mother
+seq_2066	pa sa ma la	Father Stand Mother Small
+seq_2067	sa ra na	The stand king water
+seq_2068	dh ra ka ka pa	Hold King Person Person Father
+seq_2069	ch ka na	Cut person water
+seq_2070	ra ch ra	King cut king
+seq_2071	la pa ka la na	Small Father Person Small Water
+seq_2072	gh ma na	House mother water
+seq_2073	ga pa sa	Great father stand
+seq_2074	nan sh la pa dh	Nan Shine Small Father Hold
+seq_2075	sa ka ch	The stand person cut
+seq_2076	ka sa na	Person stand water
+seq_2077	ta ka nan na	Three Person Nan Water
+seq_2078	ku nan la ch	Grain Nan Small Cut
+seq_2079	pa pa ka ku	Father Father Person Grain
+seq_2080	pa na na	Father water water
+seq_2081	pa la ch	Father small cut
+seq_2082	ch ku ka	Cut grain person
+seq_2083	la pa ka	Small father person
+seq_2084	nan ta ra ra sa	Nan Three King King Stand
+seq_2085	ma ma la ma ha ma	Mother Mother Small Mother Land Mother
+seq_2086	na ku na	Water grain water
+seq_2087	sa pa la	The stand father small
+seq_2088	un nan bh ma na la la gh	Up Nan Be Mother Water Small Small House
+seq_2089	sa la ma	The stand small mother
+seq_2090	na dh na	Water hold water
+seq_2091	ga sa bh	Great stand be
+seq_2092	la ta ka gh	Small Three Person House
+seq_2093	ch sa pa sa nan	Cut Stand Father Stand Nan
+seq_2094	ta ta mu	Three three mouth
+seq_2095	ma ka si	Mother person sit
+seq_2096	la ka ba la pa la	Small Person Good Small Father Small
+seq_2097	ta bh ku ka	Three Be Grain Person
+seq_2098	ku ma pa	Grain mother father
+seq_2099	na ra an	Water king at
+seq_2100	pa ma ka	Father mother person
+seq_2101	sa ra ka	The stand king person
+seq_2102	pa ta ga	Father three great
+seq_2103	ra pa ra mu sa	King Father King Mouth Stand
+seq_2104	na pa la re ma	Water Father Small Flow Mother
+seq_2105	na pa pa ka mu	Water Father Father Person Mouth
+seq_2106	ta pa la ta ja	Three Father Small Three Come
+seq_2107	ja dh ku ka	Come Hold Grain Person
+seq_2108	na dh ra na	Water Hold King Water
+seq_2109	ha g na	Land cow water
+seq_2110	ra ga ba	King great good
+seq_2111	dh bh na ku	Hold Be Water Grain
+seq_2112	na nan sa ba	Water Nan Stand Good
+seq_2113	dh la na ka pa	Hold Small Water Person Father
+seq_2114	pr la ku	Before small grain
+seq_2115	ta ra dh sa	Three King Hold Stand
+seq_2116	ga ta ka ma sa ta	Great Three Person Mother Stand Three
+seq_2117	ka ka na sa	Person Person Water Stand
+seq_2118	dh pa ku ta bh	Hold Father Grain Three Be
+seq_2119	na la sa ma	Water Small Stand Mother
+seq_2120	ku pa ba	Grain father good
+seq_2121	dh pa na ma mu	Hold Father Water Mother Mouth
+seq_2122	ma ka da	Mother person do
+seq_2123	ra gh na na pa	King House Water Water Father
+seq_2124	ta mu dh sa ta	Three Mouth Hold Stand Three
+seq_2125	dh la bh dh ma	Hold Small Be Hold Mother
+seq_2126	na ch pa na mu na ta nan	Water Cut Father Water Mouth Water Three Nan
+seq_2127	pa sa pa pa pa	Father Stand Father Father Father
+seq_2128	ta sa ga	Three stand great
+seq_2129	nan ja ra ka	Nan Come King Person
+seq_2130	ha pa ja ta	Land Father Come Three
+seq_2131	sa na ka	The stand water person
+seq_2132	ka ha pa	Person land father
+seq_2133	ku nan ba	Grain nan good
+seq_2134	dh ka sa ka	Hold Person Stand Person
+seq_2135	pa ka dh	Father person hold
+seq_2136	ta ra ka ra ka	Three King Person King Person
+seq_2137	la ta ga	Small three great
+seq_2138	ka ta sa	Person three stand
+seq_2139	ma ku na	Mother grain water
+seq_2140	pa la pa	Father small father
+seq_2141	ma ka ja	Mother person come
+seq_2142	la pa la	Small father small
+seq_2143	ma sa ka	The mother of stand person
+seq_2144	ta ka sa ma	Three Person Stand Mother
+seq_2145	gh da la	House do small
+seq_2146	ka pu gh	Person pure house
+seq_2147	la g ta	Small cow three
+seq_2148	ka mu ka ka	Person Mouth Person Person
+seq_2149	pa pa ch ma	Father Father Cut Mother
+seq_2150	un ta ku ba ta	Up Three Grain Good Three
+seq_2151	ra bh la	King be small
+seq_2152	na na sa	Water water stand
+seq_2153	ra ch ch pa ja gh	King Cut Cut Father Come House
+seq_2154	ku ra pa ra na	Grain King Father King Water
+seq_2155	ra ma ra	King mother king
+seq_2156	ch an ka dh pa	Cut At Person Hold Father
+seq_2157	la ka na dh	Small Person Water Hold
+seq_2158	ha ta sa	Land three stand
+seq_2159	ra ma ra mu	King Mother King Mouth
+seq_2160	pa gh ch pa pa pa	Father House Cut Father Father Father
+seq_2161	gh ta ba ra na	House Three Good King Water
+seq_2162	dh la ba la	Hold Small Good Small
+seq_2163	ta ta ch ka	Three Three Cut Person
+seq_2164	sa ka pa ta ra bh ma nan	Stand Person Father Three King Be Mother Nan
+seq_2165	ma ga la	Mother great small
+seq_2166	ma na ja na ba	Mother Water Come Water Good
+seq_2167	bh na ma nan	Be Water Mother Nan
+seq_2168	na ga ra na ma	Water Great King Water Mother
+seq_2169	la ch nan	Small cut nan
+seq_2170	nan ma bh ra	Nan Mother Be King
+seq_2171	ja pa ma pa	Come Father Mother Father
+seq_2172	ra dh ba	King hold good
+seq_2173	la ba ja nan pa	Small Good Come Nan Father
+seq_2174	la la ma	Small small mother
+seq_2175	la ch ka	Small cut person
+seq_2176	la ta dh sa	Small Three Hold Stand
+seq_2177	ka ta sa la sa	Person Three Stand Small Stand
+seq_2178	pa g ta	Father cow three
+seq_2179	ku ta ku	Grain three grain
+seq_2180	na da ha na ma	Water Do Land Water Mother
+seq_2181	pa pa ba si	Father Father Good Sit
+seq_2182	la ta ra pa	Small Three King Father
+seq_2183	kh pa na	Sky father water
+seq_2184	pa pa ka gh ka	Father Father Person House Person
+seq_2185	bh ba ma	Be good mother
+seq_2186	pa sa la pa nan pa	Father Stand Small Father Nan Father
+seq_2187	ba pa ka	Good father person
+seq_2188	na na na ku ta ra	Water Water Water Grain Three King
+seq_2189	la pa sa	Small father stand
+seq_2190	ta ra ta	Three king three
+seq_2191	ka pa pa g	Person Father Father Cow
+seq_2192	ta ta ch la mu pa	Three Three Cut Small Mouth Father
+seq_2193	ch ma pa	Cut mother father
+seq_2194	na pa ka	Water father person
+seq_2195	ha la la	Land small small
+seq_2196	an ta na	At three water
+seq_2197	la pa ku ka	Small Father Grain Person
+seq_2198	ma na ha	Mother water land
+seq_2199	ta nan pa ba ta	Three Nan Father Good Three
+seq_2200	pa pa ta	Father father three
+seq_2201	dh ma sa	Hold mother stand
+seq_2202	g ma ta	Cow mother three
+seq_2203	na ta ka mu	Water Three Person Mouth
+seq_2204	na ta la pa ch ta	Water Three Small Father Cut Three
+seq_2205	na ka bh	Water person be
+seq_2206	la ka ra ra	Small Person King King
+seq_2207	ta ja bh la	Three Come Be Small
+seq_2208	na ma ka	Water mother person
+seq_2209	sa la sa	The stand small stand
+seq_2210	ta ja ra ta	Three Come King Three
+seq_2211	ta ka pa pa	Three Person Father Father
+seq_2212	ka bh la ba	Person Be Small Good
+seq_2213	ta na ch	Three water cut
+seq_2214	dh sa ma bh	Hold Stand Mother Be
+seq_2215	pa la nan ba la	Father Small Nan Good Small
+seq_2216	mu ma dh la sa	Mouth Mother Hold Small Stand
+seq_2217	dh sa pa	Hold stand father
+seq_2218	la mu ma sa la dh na ka	Small Mouth Mother Stand Small Hold Water Person
+seq_2219	ch pa na pa	Cut Father Water Father
+seq_2220	pa ba sa	Father good stand
+seq_2221	ta ka pa ha	Three Person Father Land
+seq_2222	pa bh la ku ka	Father Be Small Grain Person
+seq_2223	ra ka ku ga	King Person Grain Great
+seq_2224	dh la ma	Hold small mother
+seq_2225	pa un ka ma	Father Up Person Mother
+seq_2226	ga pa sa	Great father stand
+seq_2227	ch pa pa	Cut father father
+seq_2228	pa ch ta	Father cut three
+seq_2229	ka dh ka pa	Person Hold Person Father
+seq_2230	ku nan sa sa	Grain Nan Stand Stand
+seq_2231	ku ta na	Grain three water
+seq_2232	ch ra ga pu ka	Cut King Great Pure Person
+seq_2233	ka ha ta	Person land three
+seq_2234	ch la sa ta	Cut Small Stand Three
+seq_2235	ma ku ma	Mother grain mother
+seq_2236	dh nan ku na mu sa	Hold Nan Grain Water Mouth Stand
+seq_2237	la na ma pa nan pa	Small Water Mother Father Nan Father
+seq_2238	sa ma nan	The stand mother nan
+seq_2239	ma bh pa	Mother be father
+seq_2240	pa ch ha	Father cut land
+seq_2241	ta da ra ch	Three Do King Cut
+seq_2242	ra la ma la	King Small Mother Small
+seq_2243	la gh la	Small house small
+seq_2244	ba pa pa	Good father father
+seq_2245	na ka pa dh	Water Person Father Hold
+seq_2246	la ma g	Small mother cow
+seq_2247	ga sa dh nan bh ku	Great Stand Hold Nan Be Grain
+seq_2248	ga ha dh ka	Great Land Hold Person
+seq_2249	nan ma mu	Nan mother mouth
+seq_2250	ku la ma ku	Grain Small Mother Grain
+seq_2251	ra ka g	King person cow
+seq_2252	ka sa pa ku na	Person Stand Father Grain Water
+seq_2253	pa ra sa	Father king stand
+seq_2254	ha sa na sa	Land Stand Water Stand
+seq_2255	ba ra na	Good king water
+seq_2256	ta na ka	Three water person
+seq_2257	da mu ta na la ha	Do Mouth Three Water Small Land
+seq_2258	pa pa ka na ja gh	Father Father Person Water Come House
+seq_2259	pa sa ku ka	Father Stand Grain Person
+seq_2260	ka dh na	Person hold water
+seq_2261	sa na g	The stand water cow
+seq_2262	ka pu bh	Person pure be
+seq_2263	pa la re la	Father Small Flow Small
+seq_2264	an ku ba ku	At Grain Good Grain
+seq_2265	bh ma na pa	Be Mother Water Father
+seq_2266	na la ku ma ka	Water Small Grain Mother Person
+seq_2267	pa ch la	Father cut small
+seq_2268	ku ta ha si	Grain Three Land Sit
+seq_2269	bh na la ka	Be Water Small Person
+seq_2270	ba pa ra na	Good Father King Water
+seq_2271	na da ma na ha	Water Do Mother Water Land
+seq_2272	ja bh na mu ka la ba	Come Be Water Mouth Person Small Good
+seq_2273	ja ka ra	Come person king
+seq_2274	gh ka pa	House person father
+seq_2275	ra ra ku ha pa	King King Grain Land Father
+seq_2276	ta la ma ch	Three Small Mother Cut
+seq_2277	ra pa nan pa na	King Father Nan Father Water
+seq_2278	na da ka na sa la	Water Do Person Water Stand Small
+seq_2279	dh ma mu	Hold mother mouth
+seq_2280	ka ku ba	Person grain good
+seq_2281	sa pa na ta	Stand Father Water Three
+seq_2282	ba pa bh	Good father be
+seq_2283	na pa pa ch	Water Father Father Cut
+seq_2284	la ba na sa	Small Good Water Stand
+seq_2285	pa gh ma pa	Father House Mother Father
+seq_2286	ch mu na ch	Cut Mouth Water Cut
+seq_2287	pa nan ku pa ku	Father Nan Grain Father Grain
+seq_2288	ra ka ku ga	King Person Grain Great
+seq_2289	ta nan ta na la ta ha gh	Three Nan Three Water Small Three Land House
+seq_2290	ku pa pa	Grain father father
+seq_2291	nan ta sa	Nan three stand
+seq_2292	pa pa ku la	Father Father Grain Small
+seq_2293	sa ma na pu ku	Stand Mother Water Pure Grain
+seq_2294	dh na la na	Hold Water Small Water
+seq_2295	ta ta kh la	Three Three Sky Small
+seq_2296	na ta ja ku	Water Three Come Grain
+seq_2297	sa la dh	The stand small hold
+seq_2298	ba ja pr	Good come before
+seq_2299	na la nan ku	Water Small Nan Grain
+seq_2300	na pa la ra	Water Father Small King
+seq_2301	ta ku na	Three grain water
+seq_2302	ku nan dh	Grain nan hold
+seq_2303	ta pa na mu ta bh	Three Father Water Mouth Three Be
+seq_2304	ka la mu ma pa	Person Small Mouth Mother Father
+seq_2305	ta ku pa pa pa	Three Grain Father Father Father
+seq_2306	sa ka ma	The stand person mother
+seq_2307	ch nan pa ka ba	Cut Nan Father Person Good
+seq_2308	ka mu ra	Person mouth king
+seq_2309	la ka sa	Small person stand
+seq_2310	ra ta ja	King three come
+seq_2311	ha ga g	Land great cow
+seq_2312	sa na ra la pr	Stand Water King Small Before
+seq_2313	na nan ha	Water nan land
+seq_2314	bh ba na	Be good water
+seq_2315	ta ka ta pa	Three Person Three Father
+seq_2316	ta ra pa na	Three King Father Water
+seq_2317	pr da ta pa ta	Before Do Three Father Three
+seq_2318	sa pa ra	The stand father king
+seq_2319	mu dh gh la	Mouth Hold House Small
+seq_2320	sa ra ha sa	Stand King Land Stand
+seq_2321	pa ra ha	Father king land
+seq_2322	ma ta na	Mother three water
+seq_2323	la nan pa la ma	Small Nan Father Small Mother
+seq_2324	nan la sa bh pa na pa ga	Nan Small Stand Be Father Water Father Great
+seq_2325	ka pa ka la kh	Person Father Person Small Sky
+seq_2326	ra ta bh	King three be
+seq_2327	la ka ba ta	Small Person Good Three
+seq_2328	ka ma la la dh	Person Mother Small Small Hold
+seq_2329	ba la ta na	Good Small Three Water
+seq_2330	sa pa ma gh ta	Stand Father Mother House Three
+seq_2331	ba sa la	Good stand small
+seq_2332	pa sa na	The father of stand water
+seq_2333	ka ma da	Person mother do
+seq_2334	ku la pa ku	Grain Small Father Grain
+seq_2335	pa sa ma ch sh pa nan	Father Stand Mother Cut Shine Father Nan
+seq_2336	mu la na ra	Mouth Small Water King
+seq_2337	sa an ma la	Stand At Mother Small
+seq_2338	ra ch ma ma ra ha ta	King Cut Mother Mother King Land Three
+seq_2339	pa na ka	Father water person
+seq_2340	an ma mu	At mother mouth
+seq_2341	la ra pa	Small king father
+seq_2342	la ma ta	Small mother three
+seq_2343	pa ch pa	Father cut father
+seq_2344	ba ch ba	Good cut good
+seq_2345	na ku mu	Water grain mouth
+seq_2346	ga g ma	Great cow mother
+seq_2347	pa la ku na	Father Small Grain Water
+seq_2348	la ha pa ka	Small Land Father Person
+seq_2349	ha ch ta ta	Land Cut Three Three
+seq_2350	ka mu pa ra	Person Mouth Father King
+seq_2351	ka mu ka pa	Person Mouth Person Father
+seq_2352	ha ta ka sa pa na	Land Three Person Stand Father Water
+seq_2353	dh ka ma	Hold person mother
+seq_2354	pa na ka	Father water person
+seq_2355	la la pa ma	Small Small Father Mother
+seq_2356	ra na pa	King water father
+seq_2357	ma la pa ta sa dh	Mother Small Father Three Stand Hold
+seq_2358	na ch la	Water cut small
+seq_2359	pa ma na pr sa	Father Mother Water Before Stand
+seq_2360	ra ma ka ka na	King Mother Person Person Water
+seq_2361	ka pa ka	Person father person
+seq_2362	ra ha ch	King land cut
+seq_2363	la pa gh ku	Small Father House Grain
+seq_2364	na ka ch	Water person cut
+seq_2365	ra dh ra ma	King Hold King Mother
+seq_2366	pa la sa pa ra	Father Small Stand Father King
+seq_2367	ra na pa	King water father
+seq_2368	la ta sa bh	Small Three Stand Be
+seq_2369	ra nan pa g	King Nan Father Cow
+seq_2370	la ku na	Small grain water
+seq_2371	ka ma nan	Person mother nan
+seq_2372	ba ch bh	Good cut be
+seq_2373	ma na na	Mother water water
+seq_2374	la ga pa ma ta	Small Great Father Mother Three
+seq_2375	ra dh ra	King hold king
+seq_2376	la ta ba na	Small Three Good Water
+seq_2377	dh pa ta	Hold father three
+seq_2378	ta la la sa an pa pa ba	Three Small Small Stand At Father Father Good
+seq_2379	la pa pa	Small father father
+seq_2380	ta nan na pa	Three Nan Water Father
+seq_2381	pa pa dh	Father father hold
+seq_2382	nan nan dh pa pa	Nan Nan Hold Father Father
+seq_2383	pa ka ka	Father person person
+seq_2384	ha sa ra pa	Land Stand King Father
+seq_2385	dh ma ch	Hold mother cut
+seq_2386	la dh ra gh ba	Small Hold King House Good
+seq_2387	sa ta nan la	Stand Three Nan Small
+seq_2388	na la ku	Water small grain
+seq_2389	sh la ra ra	Shine Small King King
+seq_2390	la pa ka pr	Small Father Person Before
+seq_2391	pa ta sa sa	Father Three Stand Stand
+seq_2392	ra pa bh	King father be
+seq_2393	nan na ta	Nan water three
+seq_2394	sa pa ta	The stand father three
+seq_2395	ka gh ma	Person house mother
+seq_2396	la ka ma dh	Small Person Mother Hold
+seq_2397	la pa pa	Small father father
+seq_2398	sa ku la ch ta	Stand Grain Small Cut Three
+seq_2399	bh gh pa	Be house father
+seq_2400	ka la sa	Person small stand
+seq_2401	ch na ta la	Cut Water Three Small
+seq_2402	ka sa sa dh na pa	Person Stand Stand Hold Water Father
+seq_2403	pa na ka	Father water person
+seq_2404	la na ta	Small water three
+seq_2405	kh ta pa	Sky three father
+seq_2406	ka pa dh ga	Person Father Hold Great
+seq_2407	mu ba ra	Mouth good king
+seq_2408	nan ra na na	Nan King Water Water
+seq_2409	nan pa bh ra la	Nan Father Be King Small
+seq_2410	la pa gh ra	Small Father House King
+seq_2411	ku nan sa sa ta	Grain Nan Stand Stand Three
+seq_2412	na ra na sa ra la	Water King Water Stand King Small
+seq_2413	pa ta ha	Father three land
+seq_2414	ta bh ma	Three be mother
+seq_2415	ra ma g ka ha	King Mother Cow Person Land
+seq_2416	sa ka pa pa ma	Stand Person Father Father Mother
+seq_2417	nan na pa pa na na	Nan Water Father Father Water Water
+seq_2418	ka ku la	Person grain small
+seq_2419	na pa ch	Water father cut
+seq_2420	na pa gh	Water father house
+seq_2421	la ka pa	Small person father
+seq_2422	ma na ra na	Mother Water King Water
+seq_2423	pa ra pa	Father king father
+seq_2424	sa bh ka	The stand be person
+seq_2425	dh na ku	Hold water grain
+seq_2426	ba sa la	Good stand small
+seq_2427	ja mu gh	Come mouth house
+seq_2428	bh na pa	Be water father
+seq_2429	la da pa bh	Small Do Father Be
+seq_2430	ra ga la	King great small
+seq_2431	ga la la	Great small small
+seq_2432	dh na sa	Hold water stand
+seq_2433	na ch bh la	Water Cut Be Small
+seq_2434	an ku pa la ta	At Grain Father Small Three
+seq_2435	ra bh pa ba	King Be Father Good
+seq_2436	nan ka ku ma	Nan Person Grain Mother
+seq_2437	pa nan na	Father nan water
+seq_2438	ja nan la	Come nan small
+seq_2439	pa ka na ha	Father Person Water Land
+seq_2440	ra na la	King water small
+seq_2441	ga ta ta la	Great Three Three Small
+seq_2442	si ha pa	Sit land father
+seq_2443	ga ku pa bh ta ra ja	Great Grain Father Be Three King Come
+seq_2444	la ra nan ra ch na pa	Small King Nan King Cut Water Father
+seq_2445	dh ka pa la	Hold Person Father Small
+seq_2446	la pa ba	Small father good
+seq_2447	ga na ma	Great water mother
+seq_2448	ta sa pa sa la	Three Stand Father Stand Small
+seq_2449	sa dh nan nan	Stand Hold Nan Nan
+seq_2450	gh bh na pa	House Be Water Father
+seq_2451	la na la	Small water small
+seq_2452	ta pr ka	Three before person
+seq_2453	sa ma na g ka ta ta	Stand Mother Water Cow Person Three Three
+seq_2454	la ba bh	Small good be
+seq_2455	la ku ta pa	Small Grain Three Father
+seq_2456	ba na ba ra	Good Water Good King
+seq_2457	ch la pa	Cut small father
+seq_2458	pa ra bh	Father king be
+seq_2459	sa si pa sa sa	Stand Sit Father Stand Stand
+seq_2460	ta na ga	Three water great
+seq_2461	sa ch un la ku	Stand Cut Up Small Grain
+seq_2462	pa nan ma pa na	Father Nan Mother Father Water
+seq_2463	bh bh la	Be be small
+seq_2464	ha ba la na	Land Good Small Water
+seq_2465	ja ta ka	Come three person
+seq_2466	nan sa ku ta ba	Nan Stand Grain Three Good
+seq_2467	ku ba ma ta	Grain Good Mother Three
+seq_2468	ga sa ga	Great stand great
+seq_2469	la sa na	Small stand water
+seq_2470	ta ga pa na pa pa	Three Great Father Water Father Father
+seq_2471	ra sa mu ra pa	King Stand Mouth King Father
+seq_2472	jha na na	Place water water
+seq_2473	nna na cha	Sacred Word water sacred
+seq_2474	ttha na ka	Three water person
+seq_2475	jha cha na	Place sacred water
+seq_2476	cha g na	The sacred cow water
+seq_2477	jha pa tha	Place father three
+seq_2478	jha tha tta nan va	Place Three Three Nan Wind
+seq_2479	dha ga tta ka nan va	Grain Great Three Person Nan Wind
+seq_2480	jha sa ha na	Place Stand Land Water
+seq_2481	na na cha	Water water sacred
+seq_2482	nan jha tta ga	Nan Place Three Great
+seq_2483	cha jha tha	The sacred place three
+seq_2484	sha na va ga	Sha Water Wind Great
+seq_2485	dha ga rra na	Grain Great Rra Water
+seq_2486	ka na jha ka dh	Person Water Place Person Hold
+seq_2487	ttha ra ja ka na	Three King Come Person Water
+seq_2488	dha ku na ma nya la mma	Grain Grain Water Mother Nya Small Mma
+seq_2489	ca ma la na nna ra	Ca Mother Small Water Sacred Word King
+seq_2490	nan jha ga na nna ra kha	Nan Place Great Water Sacred Word King Kha
+seq_2491	jha na nya nan na	Place Water Nya Nan Water
+seq_2492	jha ga na	Place great water
+seq_2493	cha na jha	Sacred water place
+seq_2494	na cha na jha	Water Sacred Water Place
+seq_2495	na cha na	The water of sacred water
+seq_2496	jha cha na na	Place Sacred Water Water
+seq_2497	ttha na cha	Three water sacred
+seq_2498	cha jha na na	Sacred Place Water Water
+seq_2499	na jha cha	Water place sacred
+seq_2500	na na jha cha	Water Water Place Sacred
+seq_2501	cha na na jha	Sacred Water Water Place
+seq_2502	ku na jha	Grain water place
+seq_2503	cha na ku	The sacred water grain
+seq_2504	jha na cha na	Place Water Sacred Water
+seq_2505	na ku cha	Water grain sacred
+seq_2506	na jha na	Water place water
+seq_2507	cha ku na jha	Sacred Grain Water Place
+seq_2508	na na cha	Water water sacred
+seq_2509	jha ku na cha	Place Grain Water Sacred
+seq_2510	cha na na jha	Sacred Water Water Place
+seq_2511	ku cha na	Grain sacred water

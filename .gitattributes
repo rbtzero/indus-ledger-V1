@@ -1,0 +1,46 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.csv   filter=lfs diff=lfs merge=lfs -text
+*.bin   filter=lfs diff=lfs merge=lfs -text
+*.png   filter=lfs diff=lfs merge=lfs -text
+# *.pdf   removed from LFS
+*.mp4   filter=lfs diff=lfs merge=lfs -text
+paper/figs/*.pdf -filter -diff -merge -text
+paper/figs/*.png -filter -diff -merge -text 
+*.rmf filter=lfs diff=lfs merge=lfs -text
+*.pi filter=lfs diff=lfs merge=lfs -text
+*.fits filter=lfs diff=lfs merge=lfs -text
+*.arf filter=lfs diff=lfs merge=lfs -text
+*.root filter=lfs diff=lfs merge=lfs -text
+ea_photon/ea_alt/cms_dimuon_sample.root !text !filter !merge !diff
+ea_photon/ea_alt/real_cms_muon_data.root !text !filter !merge !diff
+
+# Git-LFS tracking for large binary files
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+
+# Large data files in raw/ directory
+data/raw/** filter=lfs diff=lfs merge=lfs -text
+
+# Model files
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+
+# Archives
+*.bin filter=lfs diff=lfs merge=lfs -text
+
+# Line ending configuration
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

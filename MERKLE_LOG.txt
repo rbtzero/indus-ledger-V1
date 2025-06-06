@@ -1,0 +1,11 @@
+# MERKLE_LOG.txt - SHA-256 hashes for data integrity verification
+# Generated on Thu Jun  5 19:50:46 PDT 2025
+# Root hash verification for data/core/ files
+
+05251024b0c4ff52ee1ff7948a211c46156b327a49a23768ffc6864d05494402  ./weights.json
+4e9765839218014d847af8b29efd1379132f1d2cef59910acd5947eb4ae639a7  ./sign_master.csv
+a0354357faaab67d249a31076ad04e57e6b820de6490554d62e9e5d4c698d734  ./compound_table.csv
+ac0d38484b2fad6af616415df694b7c73bf4934100e804808f56c79b7abe2bf5  ./ledger_en.tsv
+ac338dc370cc195cd35ba27ebcb7089d152c64ab25bc95159a0b77c261053091  ./modifier_table.csv
+d77019caec9dd980a37c9304f4f9486cbfc9fd05c9fea5a97c159e13ae9a6404  ./corpus.tsv
+eb43ddc4eca803999c26c1ea1a49bcc5dd5bdf009e09b86c5d115f41611bdb83  ./ledger_english_full.tsv

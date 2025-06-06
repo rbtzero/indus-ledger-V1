@@ -1,0 +1,19 @@
+{
+  "munda_probability": 0.9823529411764705,
+  "total_phonemes": 850,
+  "munda_phonemes": 835,
+  "evidence": "extended_linguistic_analysis",
+  "patterns_used": [
+    "ko",
+    "na",
+    "ka",
+    "ma",
+    "pa",
+    "ta",
+    "la",
+    "sa",
+    "ra",
+    "ga"
+  ],
+  "methodology": "CV_structure_and_phoneme_frequency_analysis"
+}

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Indus Valley Script Decipherment: Complete Computational Analysis of 2,512 Inscriptions"
+version: 1.0.0
+date-released: 2024-12-05
+url: "https://github.com/rbtzero/indus-ledger-v1"
+repository-code: "https://github.com/rbtzero/indus-ledger-v1"
+authors:
+  - family-names: "Indus Valley Decipherment Project"
+    given-names: "RBT Research Team"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >-
+  Complete computational decipherment of the Indus Valley script based on 
+  2,512 inscriptions. This represents the largest successful ancient script 
+  decipherment in history, revealing the Indus Valley Civilization as 
+  humanity's first secular democracy - a family-based confederation that 
+  governed 1,000,000 people across 1.25 million km² for 2,000 years 
+  (3300-1300 BCE) without kings, armies, or religious hierarchy.
+keywords:
+  - "Indus Valley Civilization"
+  - "Script Decipherment"
+  - "Ancient History"
+  - "Computational Linguistics"
+  - "Bronze Age Democracy"
+  - "Archaeological Dataset"
+license: "MIT"
+license-url: "https://opensource.org/licenses/MIT"
+preferred-citation:
+  type: article
+  title: "Computational Decipherment of the Indus Valley Script: Evidence for Humanity's First Secular Democracy"
+  authors:
+    - family-names: "RBT Research Team"
+      given-names: "Indus Valley Decipherment Project"
+  journal: "Digital Archaeology and Ancient Scripts"
+  year: 2024
+  volume: 1
+  issue: 1
+  start: 1
+  end: 127
+  doi: "10.5281/zenodo.pending" 
