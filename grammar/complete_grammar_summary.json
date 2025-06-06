@@ -1,0 +1,25 @@
+{
+  "morpheme_count": 17,
+  "total_sequences": 2512,
+  "language_type": "ANALYTICAL (like English)",
+  "word_order": "SVO",
+  "features": {
+    "word_order": "SVO",
+    "morphology": "ANALYTICAL",
+    "modifier_order": "FLEXIBLE"
+  },
+  "most_common_sequences": {
+    "nan nan nan pa": 9,
+    "pa nan nan pa": 5,
+    "la pa pa": 5,
+    "nan nan cha pa": 4,
+    "na nan nan jha": 4,
+    "pa sa pa": 4,
+    "pa na ka": 4,
+    "la la pa": 4,
+    "ta na ka": 4,
+    "na dh pa cha": 3
+  },
+  "compound_types": {},
+  "average_length": 3.8945063694267517
+}

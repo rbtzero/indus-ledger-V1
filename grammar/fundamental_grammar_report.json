@@ -1,0 +1,146 @@
+{
+  "total_sequences": 2512,
+  "unique_morphemes": 43,
+  "type_token_ratio": 0.004395379740365941,
+  "avg_sequence_length": 3.8945063694267517,
+  "behavior_classes": {
+    "fixed_position": 0,
+    "flexible": 30,
+    "beginning_preferred": 0,
+    "ending_preferred": 0,
+    "middle_preferred": 0,
+    "never_alone": 31,
+    "often_alone": 0,
+    "high_frequency": 9,
+    "rare": 0
+  },
+  "most_frequent_patterns": {
+    "nan nan nan pa": 9,
+    "pa nan nan pa": 5,
+    "la pa pa": 5,
+    "nan nan cha pa": 4,
+    "na nan nan jha": 4,
+    "pa sa pa": 4,
+    "pa na ka": 4,
+    "la la pa": 4,
+    "ta na ka": 4,
+    "na dh pa cha": 3
+  },
+  "linguistic_family_ranking": [
+    [
+      "Proto-Munda",
+      0.5
+    ],
+    [
+      "Dravidian",
+      0.5
+    ],
+    [
+      "Early_Indo_Aryan",
+      0.5
+    ],
+    [
+      "Sino_Tibetan",
+      0.5
+    ]
+  ],
+  "strongest_dependencies": [],
+  "patterns_analysis": {
+    "avg_sequence_length": 3.8945063694267517,
+    "morphological_complexity": "synthetic",
+    "high_frequency_patterns": [
+      [
+        "nan nan nan pa",
+        9
+      ],
+      [
+        "pa nan nan pa",
+        5
+      ],
+      [
+        "la pa pa",
+        5
+      ],
+      [
+        "nan nan cha pa",
+        4
+      ],
+      [
+        "na nan nan jha",
+        4
+      ],
+      [
+        "pa sa pa",
+        4
+      ],
+      [
+        "pa na ka",
+        4
+      ],
+      [
+        "la la pa",
+        4
+      ],
+      [
+        "ta na ka",
+        4
+      ],
+      [
+        "na dh pa cha",
+        3
+      ],
+      [
+        "nan nan jha cha",
+        3
+      ],
+      [
+        "nan ga dh cha",
+        3
+      ],
+      [
+        "pa la pa",
+        3
+      ],
+      [
+        "ta pa pa",
+        3
+      ],
+      [
+        "na pa pa",
+        3
+      ],
+      [
+        "ku ka pa",
+        3
+      ],
+      [
+        "ch ka na",
+        3
+      ],
+      [
+        "la sa na",
+        3
+      ],
+      [
+        "pa ku ra",
+        3
+      ],
+      [
+        "ha ka pa",
+        3
+      ]
+    ],
+    "word_order_match": {
+      "Proto-Munda": 0.3,
+      "Dravidian": 0.4,
+      "Early_Indo_Aryan": 0.7,
+      "Sino_Tibetan": 0.5
+    },
+    "morphology_match": {
+      "Proto-Munda": 0.3,
+      "Dravidian": 0.4,
+      "Early_Indo_Aryan": 0.8,
+      "Sino_Tibetan": 0.6
+    }
+  }
+}

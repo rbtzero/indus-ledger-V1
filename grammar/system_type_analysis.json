@@ -1,0 +1,18 @@
+{
+  "system_type_scores": {
+    "Accounting System": 0.8,
+    "Ritual Notation": 0.25,
+    "Administrative Records": 0.25,
+    "Natural Language": 0.0
+  },
+  "most_likely_type": "Accounting System",
+  "confidence_score": 0.8,
+  "basic_statistics": {
+    "total_sequences": 2512,
+    "unique_sequences": 2324,
+    "total_morphemes": 9783,
+    "unique_morphemes": 43,
+    "type_token_ratio": 0.004395379740365941,
+    "sequence_diversity": 0.9251592356687898
+  }
+}

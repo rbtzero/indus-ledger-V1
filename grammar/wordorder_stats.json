@@ -1,0 +1,87 @@
+{
+  "total_sequences": 286,
+  "word_orders": {
+    "SOV": 44,
+    "SVO": 55,
+    "VSO": 50,
+    "VOS": 45,
+    "OSV": 45,
+    "OVS": 47
+  },
+  "dominant_order": "SVO",
+  "dominant_frequency": 55,
+  "significance": 1.153846153846154,
+  "modifier_order": {
+    "modifier_first": 0,
+    "noun_first": 0
+  },
+  "two_morpheme_patterns": {},
+  "sample_sequences": [
+    {
+      "sequence": "ja ra na",
+      "morphemes": [
+        "ja",
+        "ra",
+        "na"
+      ],
+      "order": "VSO",
+      "agent": "ra",
+      "verb": "ja",
+      "object": "na"
+    },
+    {
+      "sequence": "pa ta nan jha",
+      "morphemes": [
+        "pa",
+        "ta",
+        "nan",
+        "jha"
+      ],
+      "order": "SVO",
+      "agent": "pa",
+      "verb": "ta",
+      "object": "jha"
+    },
+    {
+      "sequence": "pa ta jha pa",
+      "morphemes": [
+        "pa",
+        "ta",
+        "jha",
+        "pa"
+      ],
+      "order": "SVO",
+      "agent": "pa",
+      "verb": "ta",
+      "object": "jha"
+    },
+    {
+      "sequence": "mu da na pa",
+      "morphemes": [
+        "mu",
+        "da",
+        "na",
+        "pa"
+      ],
+      "order": "VOS",
+      "agent": "pa",
+      "verb": "da",
+      "object": "na"
+    },
+    {
+      "sequence": "na ma sa ta ra ba",
+      "morphemes": [
+        "na",
+        "ma",
+        "sa",
+        "ta",
+        "ra",
+        "ba"
+      ],
+      "order": "OSV",
+      "agent": "ma",
+      "verb": "ta",
+      "object": "na"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+INDUS SCRIPT CRF PREDICTION SUMMARY
+====================================
+
+Total sequences: 2512
+Total tokens: 9783
+Average sequence length: 3.9
+
+CRF PREDICTED TAG DISTRIBUTION:
+  NOUN: 7354 (75.2%)
+  ADJ: 1411 (14.4%)
+  VERB: 905 (9.3%)
+  ADP: 112 (1.1%)
+  UNK: 1 (0.0%)
+
+SAMPLE CRF PREDICTIONS:
+  1. na/NOUN cha/ADJ jha/NOUN
+  2. na/NOUN pa/NOUN na/NOUN
+  3. cha/ADJ jha/NOUN na/NOUN
+  4. na/NOUN na/NOUN jha/NOUN
+  5. jha/NOUN cha/ADJ na/NOUN
+  6. pa/NOUN na/NOUN cha/ADJ
+  7. na/NOUN jha/NOUN cha/ADJ na/NOUN
+  8. cha/ADJ na/NOUN jha/NOUN na/NOUN
+  9. na/NOUN cha/ADJ na/NOUN jha/NOUN
+  10. jha/NOUN na/NOUN cha/ADJ
+  11. gh/NOUN nan/NOUN jha/NOUN
+  12. dh/VERB pa/NOUN nan/NOUN
+  13. nan/NOUN nan/NOUN nan/NOUN
+  14. nan/NOUN la/ADJ pa/NOUN
+  15. ga/ADJ ku/NOUN ku/NOUN
+  16. ja/VERB ra/NOUN na/NOUN
+  17. mu/NOUN sh/VERB pr/ADP
+  18. dh/VERB ch/NOUN ja/VERB
+  19. da/VERB pa/NOUN ch/NOUN
+  20. pa/NOUN si/VERB ba/ADJ

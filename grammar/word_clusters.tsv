@@ -1,0 +1,38 @@
+word	cluster_id	cluster_size	semantic_pattern
+pa	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+na	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+la	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ka	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ta	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+sa	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ra	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ma	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+nan	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ku	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+dh	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ba	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ch	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+bh	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ha	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+gh	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ga	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+mu	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+ja	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+jha	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+cha	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+da	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+g	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+si	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+an	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+un	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+kh	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+pr	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+sh	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+pu	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+re	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+tta	0	32	AUTHORITY (matches: ka, ra, pa, ma)
+tha	1	5	Common suffix 'ha'
+ttha	1	5	Common suffix 'ha'
+nna	1	5	Common suffix 'ha'
+va	1	5	Common suffix 'ha'
+dha	1	5	Common suffix 'ha'
